@@ -1,0 +1,385 @@
+﻿sdg_id,district_id,indicator_code,indicator_name,sdg_goal,year,value,unit,area
+1,1,SDG-1.2.1,Population below national poverty line,1,2025,10.2,%,District
+2,1,SDG-3.2.1,Under-five mortality rate,3,2025,17.4,"per 1,000",District
+3,1,SDG-4.1.1,Secondary school completion rate,4,2025,87.5,%,District
+4,1,SDG-6.1.1,Population using safely managed drinking water,6,2025,77.5,%,District
+5,1,SDG-8.5.2,Unemployment rate,8,2025,12,%,District
+6,1,SDG-16.9.1,Birth registration coverage,16,2025,64.5,%,District
+7,2,SDG-1.2.1,Population below national poverty line,1,2025,19.6,%,District
+8,2,SDG-3.2.1,Under-five mortality rate,3,2025,27.7,"per 1,000",District
+9,2,SDG-4.1.1,Secondary school completion rate,4,2025,82.7,%,District
+10,2,SDG-6.1.1,Population using safely managed drinking water,6,2025,52.4,%,District
+11,2,SDG-8.5.2,Unemployment rate,8,2025,8.9,%,District
+12,2,SDG-16.9.1,Birth registration coverage,16,2025,88.4,%,District
+13,3,SDG-1.2.1,Population below national poverty line,1,2025,12.3,%,District
+14,3,SDG-3.2.1,Under-five mortality rate,3,2025,37.3,"per 1,000",District
+15,3,SDG-4.1.1,Secondary school completion rate,4,2025,96.3,%,District
+16,3,SDG-6.1.1,Population using safely managed drinking water,6,2025,89.5,%,District
+17,3,SDG-8.5.2,Unemployment rate,8,2025,2.4,%,District
+18,3,SDG-16.9.1,Birth registration coverage,16,2025,50.4,%,District
+19,4,SDG-1.2.1,Population below national poverty line,1,2025,30.9,%,District
+20,4,SDG-3.2.1,Under-five mortality rate,3,2025,40.8,"per 1,000",District
+21,4,SDG-4.1.1,Secondary school completion rate,4,2025,50.4,%,District
+22,4,SDG-6.1.1,Population using safely managed drinking water,6,2025,86.6,%,District
+23,4,SDG-8.5.2,Unemployment rate,8,2025,8.7,%,District
+24,4,SDG-16.9.1,Birth registration coverage,16,2025,85.5,%,District
+25,5,SDG-1.2.1,Population below national poverty line,1,2025,28.5,%,District
+26,5,SDG-3.2.1,Under-five mortality rate,3,2025,13.4,"per 1,000",District
+27,5,SDG-4.1.1,Secondary school completion rate,4,2025,74.2,%,District
+28,5,SDG-6.1.1,Population using safely managed drinking water,6,2025,80.2,%,District
+29,5,SDG-8.5.2,Unemployment rate,8,2025,8.1,%,District
+30,5,SDG-16.9.1,Birth registration coverage,16,2025,91.4,%,District
+31,6,SDG-1.2.1,Population below national poverty line,1,2025,18.1,%,District
+32,6,SDG-3.2.1,Under-five mortality rate,3,2025,29.5,"per 1,000",District
+33,6,SDG-4.1.1,Secondary school completion rate,4,2025,68.2,%,District
+34,6,SDG-6.1.1,Population using safely managed drinking water,6,2025,82.3,%,District
+35,6,SDG-8.5.2,Unemployment rate,8,2025,9.7,%,District
+36,6,SDG-16.9.1,Birth registration coverage,16,2025,60.5,%,District
+37,7,SDG-1.2.1,Population below national poverty line,1,2025,20.9,%,District
+38,7,SDG-3.2.1,Under-five mortality rate,3,2025,23.2,"per 1,000",District
+39,7,SDG-4.1.1,Secondary school completion rate,4,2025,83.4,%,District
+40,7,SDG-6.1.1,Population using safely managed drinking water,6,2025,56.7,%,District
+41,7,SDG-8.5.2,Unemployment rate,8,2025,2.6,%,District
+42,7,SDG-16.9.1,Birth registration coverage,16,2025,80.3,%,District
+43,8,SDG-1.2.1,Population below national poverty line,1,2025,12.8,%,District
+44,8,SDG-3.2.1,Under-five mortality rate,3,2025,17.9,"per 1,000",District
+45,8,SDG-4.1.1,Secondary school completion rate,4,2025,55.8,%,District
+46,8,SDG-6.1.1,Population using safely managed drinking water,6,2025,82.6,%,District
+47,8,SDG-8.5.2,Unemployment rate,8,2025,8.3,%,District
+48,8,SDG-16.9.1,Birth registration coverage,16,2025,79.6,%,District
+49,9,SDG-1.2.1,Population below national poverty line,1,2025,9.5,%,District
+50,9,SDG-3.2.1,Under-five mortality rate,3,2025,16.7,"per 1,000",District
+51,9,SDG-4.1.1,Secondary school completion rate,4,2025,78,%,District
+52,9,SDG-6.1.1,Population using safely managed drinking water,6,2025,76.7,%,District
+53,9,SDG-8.5.2,Unemployment rate,8,2025,6.1,%,District
+54,9,SDG-16.9.1,Birth registration coverage,16,2025,58.4,%,District
+55,10,SDG-1.2.1,Population below national poverty line,1,2025,18,%,District
+56,10,SDG-3.2.1,Under-five mortality rate,3,2025,15.4,"per 1,000",District
+57,10,SDG-4.1.1,Secondary school completion rate,4,2025,53.6,%,District
+58,10,SDG-6.1.1,Population using safely managed drinking water,6,2025,55.2,%,District
+59,10,SDG-8.5.2,Unemployment rate,8,2025,10.5,%,District
+60,10,SDG-16.9.1,Birth registration coverage,16,2025,91.5,%,District
+61,11,SDG-1.2.1,Population below national poverty line,1,2025,15.9,%,District
+62,11,SDG-3.2.1,Under-five mortality rate,3,2025,22.5,"per 1,000",District
+63,11,SDG-4.1.1,Secondary school completion rate,4,2025,60.6,%,District
+64,11,SDG-6.1.1,Population using safely managed drinking water,6,2025,,%,District
+65,11,SDG-8.5.2,Unemployment rate,8,2025,10.8,%,District
+66,11,SDG-16.9.1,Birth registration coverage,16,2025,64.8,%,District
+67,12,SDG-1.2.1,Population below national poverty line,1,2025,26.1,%,District
+68,12,SDG-3.2.1,Under-five mortality rate,3,2025,26.7,"per 1,000",District
+69,12,SDG-4.1.1,Secondary school completion rate,4,2025,55.4,%,District
+70,12,SDG-6.1.1,Population using safely managed drinking water,6,2025,62.7,%,District
+71,12,SDG-8.5.2,Unemployment rate,8,2025,9.1,%,District
+72,12,SDG-16.9.1,Birth registration coverage,16,2025,78.3,%,District
+73,13,SDG-1.2.1,Population below national poverty line,1,2025,23.4,%,District
+74,13,SDG-3.2.1,Under-five mortality rate,3,2025,29.3,"per 1,000",District
+75,13,SDG-4.1.1,Secondary school completion rate,4,2025,50.3,%,District
+76,13,SDG-6.1.1,Population using safely managed drinking water,6,2025,95.7,%,District
+77,13,SDG-8.5.2,Unemployment rate,8,2025,2.8,%,District
+78,13,SDG-16.9.1,Birth registration coverage,16,2025,62.3,%,District
+79,14,SDG-1.2.1,Population below national poverty line,1,2025,29.8,%,District
+80,14,SDG-3.2.1,Under-five mortality rate,3,2025,33.8,"per 1,000",District
+81,14,SDG-4.1.1,Secondary school completion rate,4,2025,75.9,%,District
+82,14,SDG-6.1.1,Population using safely managed drinking water,6,2025,75.2,%,District
+83,14,SDG-8.5.2,Unemployment rate,8,2025,2.5,%,District
+84,14,SDG-16.9.1,Birth registration coverage,16,2025,90.8,%,District
+85,15,SDG-1.2.1,Population below national poverty line,1,2025,11.6,%,District
+86,15,SDG-3.2.1,Under-five mortality rate,3,2025,39,"per 1,000",District
+87,15,SDG-4.1.1,Secondary school completion rate,4,2025,58.8,%,District
+88,15,SDG-6.1.1,Population using safely managed drinking water,6,2025,75.3,%,District
+89,15,SDG-8.5.2,Unemployment rate,8,2025,3.1,%,District
+90,15,SDG-16.9.1,Birth registration coverage,16,2025,90.9,%,District
+91,16,SDG-1.2.1,Population below national poverty line,1,2025,16,%,District
+92,16,SDG-3.2.1,Under-five mortality rate,3,2025,41,"per 1,000",District
+93,16,SDG-4.1.1,Secondary school completion rate,4,2025,,%,District
+94,16,SDG-6.1.1,Population using safely managed drinking water,6,2025,95.1,%,District
+95,16,SDG-8.5.2,Unemployment rate,8,2025,11,%,District
+96,16,SDG-16.9.1,Birth registration coverage,16,2025,65.7,%,District
+97,17,SDG-1.2.1,Population below national poverty line,1,2025,13.1,%,District
+98,17,SDG-3.2.1,Under-five mortality rate,3,2025,41.5,"per 1,000",District
+99,17,SDG-4.1.1,Secondary school completion rate,4,2025,80.6,%,District
+100,17,SDG-6.1.1,Population using safely managed drinking water,6,2025,,%,District
+101,17,SDG-8.5.2,Unemployment rate,8,2025,11.4,%,District
+102,17,SDG-16.9.1,Birth registration coverage,16,2025,69.7,%,District
+103,18,SDG-1.2.1,Population below national poverty line,1,2025,24.8,%,District
+104,18,SDG-3.2.1,Under-five mortality rate,3,2025,25,"per 1,000",District
+105,18,SDG-4.1.1,Secondary school completion rate,4,2025,51.5,%,District
+106,18,SDG-6.1.1,Population using safely managed drinking water,6,2025,84.6,%,District
+107,18,SDG-8.5.2,Unemployment rate,8,2025,8.8,%,District
+108,18,SDG-16.9.1,Birth registration coverage,16,2025,95.9,%,District
+109,19,SDG-1.2.1,Population below national poverty line,1,2025,23.5,%,District
+110,19,SDG-3.2.1,Under-five mortality rate,3,2025,18.8,"per 1,000",District
+111,19,SDG-4.1.1,Secondary school completion rate,4,2025,80.7,%,District
+112,19,SDG-6.1.1,Population using safely managed drinking water,6,2025,76,%,District
+113,19,SDG-8.5.2,Unemployment rate,8,2025,2.4,%,District
+114,19,SDG-16.9.1,Birth registration coverage,16,2025,88.5,%,District
+115,20,SDG-1.2.1,Population below national poverty line,1,2025,13,%,District
+116,20,SDG-3.2.1,Under-five mortality rate,3,2025,12.4,"per 1,000",District
+117,20,SDG-4.1.1,Secondary school completion rate,4,2025,92,%,District
+118,20,SDG-6.1.1,Population using safely managed drinking water,6,2025,91.6,%,District
+119,20,SDG-8.5.2,Unemployment rate,8,2025,7.8,%,District
+120,20,SDG-16.9.1,Birth registration coverage,16,2025,63.4,%,District
+121,21,SDG-1.2.1,Population below national poverty line,1,2025,20.9,%,District
+122,21,SDG-3.2.1,Under-five mortality rate,3,2025,29,"per 1,000",District
+123,21,SDG-4.1.1,Secondary school completion rate,4,2025,,%,District
+124,21,SDG-6.1.1,Population using safely managed drinking water,6,2025,87.6,%,District
+125,21,SDG-8.5.2,Unemployment rate,8,2025,10.5,%,District
+126,21,SDG-16.9.1,Birth registration coverage,16,2025,86.2,%,District
+127,22,SDG-1.2.1,Population below national poverty line,1,2025,12.3,%,District
+128,22,SDG-3.2.1,Under-five mortality rate,3,2025,41.6,"per 1,000",District
+129,22,SDG-4.1.1,Secondary school completion rate,4,2025,52,%,District
+130,22,SDG-6.1.1,Population using safely managed drinking water,6,2025,87,%,District
+131,22,SDG-8.5.2,Unemployment rate,8,2025,10.8,%,District
+132,22,SDG-16.9.1,Birth registration coverage,16,2025,89.3,%,District
+133,23,SDG-1.2.1,Population below national poverty line,1,2025,20.1,%,District
+134,23,SDG-3.2.1,Under-five mortality rate,3,2025,28,"per 1,000",District
+135,23,SDG-4.1.1,Secondary school completion rate,4,2025,89.8,%,District
+136,23,SDG-6.1.1,Population using safely managed drinking water,6,2025,72.5,%,District
+137,23,SDG-8.5.2,Unemployment rate,8,2025,5.6,%,District
+138,23,SDG-16.9.1,Birth registration coverage,16,2025,50.4,%,District
+139,24,SDG-1.2.1,Population below national poverty line,1,2025,11.7,%,District
+140,24,SDG-3.2.1,Under-five mortality rate,3,2025,15.4,"per 1,000",District
+141,24,SDG-4.1.1,Secondary school completion rate,4,2025,95.1,%,District
+142,24,SDG-6.1.1,Population using safely managed drinking water,6,2025,92.7,%,District
+143,24,SDG-8.5.2,Unemployment rate,8,2025,9,%,District
+144,24,SDG-16.9.1,Birth registration coverage,16,2025,91.5,,District
+145,25,SDG-1.2.1,Population below national poverty line,1,2025,29.8,%,District
+146,25,SDG-3.2.1,Under-five mortality rate,3,2025,22,"per 1,000",District
+147,25,SDG-4.1.1,Secondary school completion rate,4,2025,87.1,%,District
+148,25,SDG-6.1.1,Population using safely managed drinking water,6,2025,76.7,%,District
+149,25,SDG-8.5.2,Unemployment rate,8,2025,10.2,%,
+150,25,SDG-16.9.1,Birth registration coverage,16,2025,84.5,%,District
+151,26,SDG-1.2.1,Population below national poverty line,1,2025,8.1,%,District
+152,26,SDG-3.2.1,Under-five mortality rate,3,2025,17.1,"per 1,000",District
+153,26,SDG-4.1.1,Secondary school completion rate,4,2025,56.2,%,District
+154,26,SDG-6.1.1,Population using safely managed drinking water,6,2025,58.9,%,District
+155,26,SDG-8.5.2,Unemployment rate,8,2025,9.5,%,District
+156,26,SDG-16.9.1,Birth registration coverage,16,2025,80.8,%,District
+157,27,SDG-1.2.1,Population below national poverty line,1,2025,18.9,%,District
+158,27,SDG-3.2.1,Under-five mortality rate,3,2025,25.6,"per 1,000",District
+159,27,SDG-4.1.1,Secondary school completion rate,4,2025,56.3,%,District
+160,27,SDG-6.1.1,Population using safely managed drinking water,6,2025,72.8,%,District
+161,27,SDG-8.5.2,Unemployment rate,8,2025,7.8,%,District
+162,27,SDG-16.9.1,Birth registration coverage,16,2025,56.5,%,District
+163,28,SDG-1.2.1,Population below national poverty line,1,2025,25.6,%,District
+164,28,SDG-3.2.1,Under-five mortality rate,3,2025,32.5,"per 1,000",District
+165,28,SDG-4.1.1,Secondary school completion rate,4,2025,67.7,%,District
+166,28,SDG-6.1.1,Population using safely managed drinking water,6,2025,71.8,%,District
+167,28,SDG-8.5.2,Unemployment rate,8,2025,5.9,%,District
+168,28,SDG-16.9.1,Birth registration coverage,16,2025,96.8,%,District
+169,29,SDG-1.2.1,Population below national poverty line,1,2025,15.9,%,District
+170,29,SDG-3.2.1,Under-five mortality rate,3,2025,29.9,"per 1,000",District
+171,29,SDG-4.1.1,Secondary school completion rate,4,2025,86.8,%,District
+172,29,SDG-6.1.1,Population using safely managed drinking water,6,2025,,%,District
+173,29,SDG-8.5.2,Unemployment rate,8,2025,6.6,%,District
+174,29,SDG-16.9.1,Birth registration coverage,16,2025,72.8,%,District
+175,30,SDG-1.2.1,Population below national poverty line,1,2025,22.1,,District
+176,30,SDG-3.2.1,Under-five mortality rate,3,2025,32.9,"per 1,000",District
+177,30,SDG-4.1.1,Secondary school completion rate,4,2025,80,%,District
+178,30,SDG-6.1.1,Population using safely managed drinking water,6,2025,50.4,%,District
+179,30,SDG-8.5.2,Unemployment rate,8,2025,9.1,%,District
+180,30,SDG-16.9.1,Birth registration coverage,16,2025,86.5,%,District
+181,31,SDG-1.2.1,Population below national poverty line,1,2025,10.4,%,District
+182,31,SDG-3.2.1,Under-five mortality rate,3,2025,22.4,"per 1,000",District
+183,31,SDG-4.1.1,Secondary school completion rate,4,2025,86.2,%,District
+184,31,SDG-6.1.1,Population using safely managed drinking water,6,2025,63.2,%,District
+185,31,SDG-8.5.2,Unemployment rate,8,2025,11.1,%,District
+186,31,SDG-16.9.1,Birth registration coverage,16,2025,93.9,%,District
+187,32,SDG-1.2.1,Population below national poverty line,1,2025,21.9,%,District
+188,32,SDG-3.2.1,Under-five mortality rate,3,2025,13.9,"per 1,000",District
+189,32,SDG-4.1.1,Secondary school completion rate,4,2025,80.1,%,District
+190,32,SDG-6.1.1,Population using safely managed drinking water,6,2025,62.6,%,District
+191,32,SDG-8.5.2,Unemployment rate,8,2025,3.6,%,District
+192,32,SDG-16.9.1,Birth registration coverage,16,2025,93.8,%,District
+193,33,SDG-1.2.1,Population below national poverty line,1,2025,23.1,%,District
+194,33,SDG-3.2.1,Under-five mortality rate,3,2025,38,"per 1,000",District
+195,33,SDG-4.1.1,Secondary school completion rate,4,2025,79.9,%,District
+196,33,SDG-6.1.1,Population using safely managed drinking water,6,2025,86.1,%,District
+197,33,SDG-8.5.2,Unemployment rate,8,2025,3.9,%,District
+198,33,SDG-16.9.1,Birth registration coverage,16,2025,70.5,%,District
+199,34,SDG-1.2.1,Population below national poverty line,1,2025,21.4,%,District
+200,34,SDG-3.2.1,Under-five mortality rate,3,2025,40.9,"per 1,000",District
+201,34,SDG-4.1.1,Secondary school completion rate,4,2025,80.9,%,District
+202,34,SDG-6.1.1,Population using safely managed drinking water,6,2025,65.2,%,District
+203,34,SDG-8.5.2,Unemployment rate,8,2025,3.4,%,District
+204,34,SDG-16.9.1,Birth registration coverage,16,2025,68.2,%,District
+205,35,SDG-1.2.1,Population below national poverty line,1,2025,14.3,%,District
+206,35,SDG-3.2.1,Under-five mortality rate,3,2025,24.6,"per 1,000",District
+207,35,SDG-4.1.1,Secondary school completion rate,4,2025,72.4,%,District
+208,35,SDG-6.1.1,Population using safely managed drinking water,6,2025,58,%,District
+209,35,SDG-8.5.2,Unemployment rate,8,2025,7.9,%,District
+210,35,SDG-16.9.1,Birth registration coverage,16,2025,72.3,%,District
+211,36,SDG-1.2.1,Population below national poverty line,1,2025,14.4,%,District
+212,36,SDG-3.2.1,Under-five mortality rate,3,2025,17.1,"per 1,000",District
+213,36,SDG-4.1.1,Secondary school completion rate,4,2025,72.5,%,District
+214,36,SDG-6.1.1,Population using safely managed drinking water,6,2025,50.1,%,District
+215,36,SDG-8.5.2,Unemployment rate,8,2025,9.3,%,District
+216,36,SDG-16.9.1,Birth registration coverage,16,2025,54.9,%,District
+217,37,SDG-1.2.1,Population below national poverty line,1,2025,19.4,%,District
+218,37,SDG-3.2.1,Under-five mortality rate,3,2025,30.8,"per 1,000",District
+219,37,SDG-4.1.1,Secondary school completion rate,4,2025,77.7,%,District
+220,37,SDG-6.1.1,Population using safely managed drinking water,6,2025,67.9,%,District
+221,37,SDG-8.5.2,Unemployment rate,8,2025,9.2,%,
+222,37,SDG-16.9.1,Birth registration coverage,16,2025,62,%,District
+223,38,SDG-1.2.1,Population below national poverty line,1,2025,13.2,%,District
+224,38,SDG-3.2.1,Under-five mortality rate,3,2025,32.8,"per 1,000",District
+225,38,SDG-4.1.1,Secondary school completion rate,4,2025,84.6,%,District
+226,38,SDG-6.1.1,Population using safely managed drinking water,6,2025,59.2,%,District
+227,38,SDG-8.5.2,Unemployment rate,8,2025,6,%,District
+228,38,SDG-16.9.1,Birth registration coverage,16,2025,57.6,%,District
+229,39,SDG-1.2.1,Population below national poverty line,1,2025,10.4,%,District
+230,39,SDG-3.2.1,Under-five mortality rate,3,2025,25.8,"per 1,000",District
+231,39,SDG-4.1.1,Secondary school completion rate,4,2025,80.9,%,District
+232,39,SDG-6.1.1,Population using safely managed drinking water,6,2025,69.4,%,District
+233,39,SDG-8.5.2,Unemployment rate,8,2025,5.3,%,District
+234,39,SDG-16.9.1,Birth registration coverage,16,2025,94.2,%,District
+235,40,SDG-1.2.1,Population below national poverty line,1,2025,,%,District
+236,40,SDG-3.2.1,Under-five mortality rate,3,2025,26.7,"per 1,000",District
+237,40,SDG-4.1.1,Secondary school completion rate,4,2025,64.2,%,District
+238,40,SDG-6.1.1,Population using safely managed drinking water,6,2025,51.1,%,District
+239,40,SDG-8.5.2,Unemployment rate,8,2025,6.1,%,District
+240,40,SDG-16.9.1,Birth registration coverage,16,2025,80.6,%,District
+241,41,SDG-1.2.1,Population below national poverty line,1,2025,14.4,%,District
+242,41,SDG-3.2.1,Under-five mortality rate,3,2025,14.6,"per 1,000",District
+243,41,SDG-4.1.1,Secondary school completion rate,4,2025,92.6,%,District
+244,41,SDG-6.1.1,Population using safely managed drinking water,6,2025,51.7,%,District
+245,41,SDG-8.5.2,Unemployment rate,8,2025,2.3,%,District
+246,41,SDG-16.9.1,Birth registration coverage,16,2025,80.1,%,District
+247,42,SDG-1.2.1,Population below national poverty line,1,2025,11.4,%,District
+248,42,SDG-3.2.1,Under-five mortality rate,3,2025,20,"per 1,000",District
+249,42,SDG-4.1.1,Secondary school completion rate,4,2025,90,%,District
+250,42,SDG-6.1.1,Population using safely managed drinking water,6,2025,79.3,%,District
+251,42,SDG-8.5.2,Unemployment rate,8,2025,11.7,%,District
+252,42,SDG-16.9.1,Birth registration coverage,16,2025,64.3,%,District
+253,43,SDG-1.2.1,Population below national poverty line,1,2025,22.9,%,District
+254,43,SDG-3.2.1,Under-five mortality rate,3,2025,21.8,"per 1,000",District
+255,43,SDG-4.1.1,Secondary school completion rate,4,2025,74,%,District
+256,43,SDG-6.1.1,Population using safely managed drinking water,6,2025,94.9,%,District
+257,43,SDG-8.5.2,Unemployment rate,8,2025,4.9,%,District
+258,43,SDG-16.9.1,Birth registration coverage,16,2025,95.6,%,District
+259,44,SDG-1.2.1,Population below national poverty line,1,2025,22.3,%,District
+260,44,SDG-3.2.1,Under-five mortality rate,3,2025,21.2,"per 1,000",District
+261,44,SDG-4.1.1,Secondary school completion rate,4,2025,77,%,District
+262,44,SDG-6.1.1,Population using safely managed drinking water,6,2025,96.2,%,District
+263,44,SDG-8.5.2,Unemployment rate,8,2025,9.1,%,District
+264,44,SDG-16.9.1,Birth registration coverage,16,2025,83.3,%,District
+265,45,SDG-1.2.1,Population below national poverty line,1,2025,10.6,%,District
+266,45,SDG-3.2.1,Under-five mortality rate,3,2025,38.1,"per 1,000",District
+267,45,SDG-4.1.1,Secondary school completion rate,4,2025,66.4,%,District
+268,45,SDG-6.1.1,Population using safely managed drinking water,6,2025,74.5,%,District
+269,45,SDG-8.5.2,Unemployment rate,8,2025,4.2,%,District
+270,45,SDG-16.9.1,Birth registration coverage,16,2025,91.2,%,District
+271,46,SDG-1.2.1,Population below national poverty line,1,2025,19.5,%,District
+272,46,SDG-3.2.1,Under-five mortality rate,3,2025,22.8,"per 1,000",District
+273,46,SDG-4.1.1,Secondary school completion rate,4,2025,76.7,%,District
+274,46,SDG-6.1.1,Population using safely managed drinking water,6,2025,50.9,%,District
+275,46,SDG-8.5.2,Unemployment rate,8,2025,5.7,%,District
+276,46,SDG-16.9.1,Birth registration coverage,16,2025,96.1,%,District
+277,47,SDG-1.2.1,Population below national poverty line,1,2025,17,%,District
+278,47,SDG-3.2.1,Under-five mortality rate,3,2025,31.7,"per 1,000",District
+279,47,SDG-4.1.1,Secondary school completion rate,4,2025,57.2,%,District
+280,47,SDG-6.1.1,Population using safely managed drinking water,6,2025,82.8,%,District
+281,47,SDG-8.5.2,Unemployment rate,8,2025,11,%,District
+282,47,SDG-16.9.1,Birth registration coverage,16,2025,69,%,District
+283,48,SDG-1.2.1,Population below national poverty line,1,2025,10.2,%,District
+284,48,SDG-3.2.1,Under-five mortality rate,3,2025,13.2,"per 1,000",District
+285,48,SDG-4.1.1,Secondary school completion rate,4,2025,55.6,%,District
+286,48,SDG-6.1.1,Population using safely managed drinking water,6,2025,89.2,%,District
+287,48,SDG-8.5.2,Unemployment rate,8,2025,10,%,District
+288,48,SDG-16.9.1,Birth registration coverage,16,2025,55.5,%,District
+289,49,SDG-1.2.1,Population below national poverty line,1,2025,12.5,%,District
+290,49,SDG-3.2.1,Under-five mortality rate,3,2025,27.6,"per 1,000",District
+291,49,SDG-4.1.1,Secondary school completion rate,4,2025,60.5,%,District
+292,49,SDG-6.1.1,Population using safely managed drinking water,6,2025,69.2,%,District
+293,49,SDG-8.5.2,Unemployment rate,8,2025,11.1,%,District
+294,49,SDG-16.9.1,Birth registration coverage,16,2025,84.1,%,District
+295,50,SDG-1.2.1,Population below national poverty line,1,2025,16.6,%,District
+296,50,SDG-3.2.1,Under-five mortality rate,3,2025,20.5,"per 1,000",District
+297,50,SDG-4.1.1,Secondary school completion rate,4,2025,62,%,District
+298,50,SDG-6.1.1,Population using safely managed drinking water,6,2025,73.5,%,District
+299,50,SDG-8.5.2,Unemployment rate,8,2025,6.4,%,District
+300,50,SDG-16.9.1,Birth registration coverage,16,2025,64.5,%,District
+301,51,SDG-1.2.1,Population below national poverty line,1,2025,30.4,%,District
+302,51,SDG-3.2.1,Under-five mortality rate,3,2025,14.6,"per 1,000",District
+303,51,SDG-4.1.1,Secondary school completion rate,4,2025,54.3,%,District
+304,51,SDG-6.1.1,Population using safely managed drinking water,6,2025,92.6,%,District
+305,51,SDG-8.5.2,Unemployment rate,8,2025,3.5,%,District
+306,51,SDG-16.9.1,Birth registration coverage,16,2025,80.5,%,District
+307,52,SDG-1.2.1,Population below national poverty line,1,2025,22.6,%,District
+308,52,SDG-3.2.1,Under-five mortality rate,3,2025,18.9,"per 1,000",District
+309,52,SDG-4.1.1,Secondary school completion rate,4,2025,69.3,%,District
+310,52,SDG-6.1.1,Population using safely managed drinking water,6,2025,,%,District
+311,52,SDG-8.5.2,Unemployment rate,8,2025,11.6,%,District
+312,52,SDG-16.9.1,Birth registration coverage,16,2025,82.8,%,District
+313,53,SDG-1.2.1,Population below national poverty line,1,2025,11.3,%,District
+314,53,SDG-3.2.1,Under-five mortality rate,3,2025,16,"per 1,000",District
+315,53,SDG-4.1.1,Secondary school completion rate,4,2025,81.9,%,District
+316,53,SDG-6.1.1,Population using safely managed drinking water,6,2025,83.2,%,District
+317,53,SDG-8.5.2,Unemployment rate,8,2025,3.1,%,District
+318,53,SDG-16.9.1,Birth registration coverage,16,2025,76,%,District
+319,54,SDG-1.2.1,Population below national poverty line,1,2025,26.8,,District
+320,54,SDG-3.2.1,Under-five mortality rate,3,2025,25.5,"per 1,000",District
+321,54,SDG-4.1.1,Secondary school completion rate,4,2025,87.3,%,District
+322,54,SDG-6.1.1,Population using safely managed drinking water,6,2025,70.9,%,District
+323,54,SDG-8.5.2,Unemployment rate,8,2025,9.4,%,District
+324,54,SDG-16.9.1,Birth registration coverage,16,2025,88.6,%,District
+325,55,SDG-1.2.1,Population below national poverty line,1,2025,27.5,%,District
+326,55,SDG-3.2.1,Under-five mortality rate,3,2025,31.1,"per 1,000",District
+327,55,SDG-4.1.1,Secondary school completion rate,4,2025,65.5,%,District
+328,55,SDG-6.1.1,Population using safely managed drinking water,6,2025,66,%,District
+329,55,SDG-8.5.2,Unemployment rate,8,2025,11.8,%,District
+330,55,SDG-16.9.1,Birth registration coverage,16,2025,52,%,District
+331,56,SDG-1.2.1,Population below national poverty line,1,2025,23.2,%,District
+332,56,SDG-3.2.1,Under-five mortality rate,3,2025,41.2,"per 1,000",District
+333,56,SDG-4.1.1,Secondary school completion rate,4,2025,96.6,%,District
+334,56,SDG-6.1.1,Population using safely managed drinking water,6,2025,70.8,%,District
+335,56,SDG-8.5.2,Unemployment rate,8,2025,2.5,%,District
+336,56,SDG-16.9.1,Birth registration coverage,16,2025,61.8,%,District
+337,57,SDG-1.2.1,Population below national poverty line,1,2025,15,%,District
+338,57,SDG-3.2.1,Under-five mortality rate,3,2025,38.3,"per 1,000",District
+339,57,SDG-4.1.1,Secondary school completion rate,4,2025,62.2,%,District
+340,57,SDG-6.1.1,Population using safely managed drinking water,6,2025,74.4,%,District
+341,57,SDG-8.5.2,Unemployment rate,8,2025,7.6,%,District
+342,57,SDG-16.9.1,Birth registration coverage,16,2025,97.3,%,District
+343,58,SDG-1.2.1,Population below national poverty line,1,2025,29.4,%,District
+344,58,SDG-3.2.1,Under-five mortality rate,3,2025,18.5,"per 1,000",District
+345,58,SDG-4.1.1,Secondary school completion rate,4,2025,85.9,%,District
+346,58,SDG-6.1.1,Population using safely managed drinking water,6,2025,72.2,%,District
+347,58,SDG-8.5.2,Unemployment rate,8,2025,10.2,%,District
+348,58,SDG-16.9.1,Birth registration coverage,16,2025,71.3,%,District
+349,59,SDG-1.2.1,Population below national poverty line,1,2025,9.2,%,District
+350,59,SDG-3.2.1,Under-five mortality rate,3,2025,38.7,"per 1,000",District
+351,59,SDG-4.1.1,Secondary school completion rate,4,2025,68.5,%,District
+352,59,SDG-6.1.1,Population using safely managed drinking water,6,2025,62,%,District
+353,59,SDG-8.5.2,Unemployment rate,8,2025,10.2,%,District
+354,59,SDG-16.9.1,Birth registration coverage,16,2025,72,%,District
+355,60,SDG-1.2.1,Population below national poverty line,1,2025,14.2,%,District
+356,60,SDG-3.2.1,Under-five mortality rate,3,2025,19.5,"per 1,000",District
+357,60,SDG-4.1.1,Secondary school completion rate,4,2025,79.9,%,District
+358,60,SDG-6.1.1,Population using safely managed drinking water,6,2025,55.8,%,District
+359,60,SDG-8.5.2,Unemployment rate,8,2025,3.9,%,District
+360,60,SDG-16.9.1,Birth registration coverage,16,2025,81.4,%,District
+361,61,SDG-1.2.1,Population below national poverty line,1,2025,24,%,District
+362,61,SDG-3.2.1,Under-five mortality rate,3,2025,12.9,"per 1,000",District
+363,61,SDG-4.1.1,Secondary school completion rate,4,2025,74.2,%,District
+364,61,SDG-6.1.1,Population using safely managed drinking water,6,2025,66.3,%,District
+365,61,SDG-8.5.2,Unemployment rate,8,2025,11.4,%,District
+366,61,SDG-16.9.1,Birth registration coverage,16,2025,85.3,%,District
+367,62,SDG-1.2.1,Population below national poverty line,1,2025,12.3,%,District
+368,62,SDG-3.2.1,Under-five mortality rate,3,2025,34.7,"per 1,000",District
+369,62,SDG-4.1.1,Secondary school completion rate,4,2025,81.1,%,District
+370,62,SDG-6.1.1,Population using safely managed drinking water,6,2025,54.4,%,District
+371,62,SDG-8.5.2,Unemployment rate,8,2025,3.3,%,District
+372,62,SDG-16.9.1,Birth registration coverage,16,2025,82.2,%,District
+373,63,SDG-1.2.1,Population below national poverty line,1,2025,20.4,%,District
+374,63,SDG-3.2.1,Under-five mortality rate,3,2025,20,"per 1,000",District
+375,63,SDG-4.1.1,Secondary school completion rate,4,2025,64.8,%,District
+376,63,SDG-6.1.1,Population using safely managed drinking water,6,2025,86.5,%,District
+377,63,SDG-8.5.2,Unemployment rate,8,2025,7.4,%,District
+378,63,SDG-16.9.1,Birth registration coverage,16,2025,74.6,%,District
+379,64,SDG-1.2.1,Population below national poverty line,1,2025,23.7,%,District
+380,64,SDG-3.2.1,Under-five mortality rate,3,2025,20.1,"per 1,000",District
+381,64,SDG-4.1.1,Secondary school completion rate,4,2025,51.8,%,District
+382,64,SDG-6.1.1,Population using safely managed drinking water,6,2025,54,%,District
+383,64,SDG-8.5.2,Unemployment rate,8,2025,10.8,%,District
+384,64,SDG-16.9.1,Birth registration coverage,16,2025,60.5,%,District

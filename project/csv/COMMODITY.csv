@@ -1,0 +1,26 @@
+﻿commodity_id,commodity_name,category
+1,Rice,Food Grain
+2,Wheat Flour,Food Grain
+3,Potato,Vegetable
+4,Onion,Vegetable
+5,Lentil,Pulse
+6,Soybean Oil,Edible Oil
+7,Sugar,Grocery
+8,Tea,Beverage
+9,Frozen Shrimp,Seafood
+10,Jute Fiber,Agricultural Raw Material
+11,Leather,Industrial Raw Material
+12,Cotton Yarn,Textile Raw Material
+13,Knitwear,Garments
+14,Woven Garments,Garments
+15,Home Textile,Textile
+16,Footwear,Leather Goods
+17,Ceramic Products,Manufactured Goods
+18,Pharmaceutical Products,Healthcare
+19,Plastic Products,Manufactured Goods
+20,Bicycle,Engineering Goods
+21,Furniture,Manufactured Goods
+22,Fish,Seafood
+23,Vegetables,Agriculture
+24,Spices,Food
+25,Processed Food,Food

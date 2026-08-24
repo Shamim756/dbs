@@ -1,0 +1,513 @@
+﻿edu_id,district_id,indicator_name,year,value,sex,level,unit
+1,1,Net enrollment rate,2025,79,Male,Primary,%
+2,1,Net enrollment rate,2025,62.5,Female,Primary,%
+3,1,Net enrollment rate,2025,89,Male,Secondary,%
+4,1,Net enrollment rate,2025,90.5,Female,Secondary,%
+5,1,Completion rate,2025,80.7,Male,Primary,%
+6,1,Completion rate,2025,88.7,Female,Primary,%
+7,1,Completion rate,2025,73.3,Male,Secondary,%
+8,1,Completion rate,2025,75.4,Female,Secondary,%
+9,2,Net enrollment rate,2025,62,Male,Primary,%
+10,2,Net enrollment rate,2025,65,Female,Primary,%
+11,2,Net enrollment rate,2025,93,Male,Secondary,%
+12,2,Net enrollment rate,2025,77.8,Female,Secondary,%
+13,2,Completion rate,2025,82.7,Male,Primary,%
+14,2,Completion rate,2025,89.3,Female,Primary,%
+15,2,Completion rate,2025,64.9,Male,Secondary,%
+16,2,Completion rate,2025,93.7,Female,Secondary,%
+17,3,Net enrollment rate,2025,80.6,Male,Primary,%
+18,3,Net enrollment rate,2025,77.6,Female,Primary,%
+19,3,Net enrollment rate,2025,84.4,Male,Secondary,%
+20,3,Net enrollment rate,2025,88.6,Female,Secondary,%
+21,3,Completion rate,2025,86.5,Male,Primary,%
+22,3,Completion rate,2025,63.5,Female,Primary,%
+23,3,Completion rate,2025,77.6,Male,Secondary,%
+24,3,Completion rate,2025,94.1,Female,Secondary,%
+25,4,Net enrollment rate,2025,69.2,Male,Primary,%
+26,4,Net enrollment rate,2025,64.8,Female,Primary,%
+27,4,Net enrollment rate,2025,97.7,Male,Secondary,%
+28,4,Net enrollment rate,2025,97.8,Female,Secondary,%
+29,4,Completion rate,2025,88.2,Male,Primary,%
+30,4,Completion rate,2025,81.8,Female,Primary,%
+31,4,Completion rate,2025,87.3,Male,Secondary,%
+32,4,Completion rate,2025,87.6,Female,Secondary,%
+33,5,Net enrollment rate,2025,77.8,Male,Primary,%
+34,5,Net enrollment rate,2025,66.3,Female,Primary,%
+35,5,Net enrollment rate,2025,88.1,Male,Secondary,%
+36,5,Net enrollment rate,2025,86.1,Female,Secondary,%
+37,5,Completion rate,2025,75.6,Male,Primary,%
+38,5,Completion rate,2025,67.3,Female,Primary,%
+39,5,Completion rate,2025,62.1,Male,Secondary,%
+40,5,Completion rate,2025,68.1,Female,Secondary,%
+41,6,Net enrollment rate,2025,91.2,Male,Primary,%
+42,6,Net enrollment rate,2025,94.5,Female,Primary,%
+43,6,Net enrollment rate,2025,70.7,Male,Secondary,%
+44,6,Net enrollment rate,2025,73.5,Female,Secondary,%
+45,6,Completion rate,2025,70.9,Male,Primary,%
+46,6,Completion rate,2025,75,Female,Primary,%
+47,6,Completion rate,2025,85.9,Male,Secondary,%
+48,6,Completion rate,2025,94,Female,Secondary,%
+49,7,Net enrollment rate,2025,63.1,Male,Primary,%
+50,7,Net enrollment rate,2025,72,Female,Primary,%
+51,7,Net enrollment rate,2025,67,Male,Secondary,%
+52,7,Net enrollment rate,2025,63.4,Female,Secondary,%
+53,7,Completion rate,2025,94,Male,Primary,%
+54,7,Completion rate,2025,83.1,Female,Primary,%
+55,7,Completion rate,2025,72.7,Male,Secondary,%
+56,7,Completion rate,2025,80.3,Female,Secondary,%
+57,8,Net enrollment rate,2025,90,Male,Primary,%
+58,8,Net enrollment rate,2025,83,Female,Primary,%
+59,8,Net enrollment rate,2025,86.3,Male,Secondary,%
+60,8,Net enrollment rate,2025,68.8,Female,Secondary,%
+61,8,Completion rate,2025,75.1,Male,Primary,%
+62,8,Completion rate,2025,82.1,Female,Primary,%
+63,8,Completion rate,2025,62.3,Male,Secondary,%
+64,8,Completion rate,2025,95.7,Female,Secondary,%
+65,9,Net enrollment rate,2025,89.9,Male,Primary,%
+66,9,Net enrollment rate,2025,73.3,Female,Primary,%
+67,9,Net enrollment rate,2025,68.3,Male,Secondary,%
+68,9,Net enrollment rate,2025,69.1,Female,Secondary,%
+69,9,Completion rate,2025,81.4,Male,Primary,%
+70,9,Completion rate,2025,84.4,Female,Primary,%
+71,9,Completion rate,2025,91.4,Male,Secondary,%
+72,9,Completion rate,2025,75.4,Female,Secondary,%
+73,10,Net enrollment rate,2025,97.1,Male,Primary,%
+74,10,Net enrollment rate,2025,67.7,Female,Primary,%
+75,10,Net enrollment rate,2025,72,Male,Secondary,%
+76,10,Net enrollment rate,2025,71.7,Female,Secondary,%
+77,10,Completion rate,2025,88.5,Male,Primary,%
+78,10,Completion rate,2025,83,Female,Primary,%
+79,10,Completion rate,2025,90.9,Male,Secondary,%
+80,10,Completion rate,2025,67.9,Female,Secondary,%
+81,11,Net enrollment rate,2025,83.8,Male,Primary,%
+82,11,Net enrollment rate,2025,71.7,Female,Primary,%
+83,11,Net enrollment rate,2025,75.4,Male,Secondary,%
+84,11,Net enrollment rate,2025,62.7,Female,Secondary,%
+85,11,Completion rate,2025,91.3,Male,Primary,%
+86,11,Completion rate,2025,71,Female,Primary,%
+87,11,Completion rate,2025,82.1,Male,Secondary,%
+88,11,Completion rate,2025,73.6,Female,Secondary,%
+89,12,Net enrollment rate,2025,95.6,Male,Primary,%
+90,12,Net enrollment rate,2025,67.9,Female,Primary,%
+91,12,Net enrollment rate,2025,69.8,Male,Secondary,%
+92,12,Net enrollment rate,2025,93.9,Female,Secondary,%
+93,12,Completion rate,2025,85.7,Male,Primary,%
+94,12,Completion rate,2025,80.4,Female,Primary,%
+95,12,Completion rate,2025,65.7,Male,Secondary,%
+96,12,Completion rate,2025,63,Female,Secondary,%
+97,13,Net enrollment rate,2025,79.8,Male,Primary,%
+98,13,Net enrollment rate,2025,79,Female,Primary,%
+99,13,Net enrollment rate,2025,78.6,Male,Secondary,%
+100,13,Net enrollment rate,2025,65.8,Female,Secondary,%
+101,13,Completion rate,2025,88.4,Male,Primary,%
+102,13,Completion rate,2025,85.5,Female,Primary,%
+103,13,Completion rate,2025,96.2,Male,Secondary,%
+104,13,Completion rate,2025,68.2,Female,Secondary,%
+105,14,Net enrollment rate,2025,84.1,Male,Primary,%
+106,14,Net enrollment rate,2025,68.2,Female,Primary,%
+107,14,Net enrollment rate,2025,79.4,Male,Secondary,%
+108,14,Net enrollment rate,2025,95.9,Female,Secondary,%
+109,14,Completion rate,2025,71.2,Male,Primary,%
+110,14,Completion rate,2025,78.2,Female,Primary,%
+111,14,Completion rate,2025,87.9,Male,Secondary,%
+112,14,Completion rate,2025,86.9,Female,Secondary,%
+113,15,Net enrollment rate,2025,71.7,Male,Primary,%
+114,15,Net enrollment rate,2025,86.9,Female,Primary,%
+115,15,Net enrollment rate,2025,94,Male,Secondary,%
+116,15,Net enrollment rate,2025,93.7,Female,Secondary,%
+117,15,Completion rate,2025,86.8,Male,Primary,%
+118,15,Completion rate,2025,78.5,Female,Primary,%
+119,15,Completion rate,2025,79.3,Male,Secondary,%
+120,15,Completion rate,2025,81.1,Female,Secondary,%
+121,16,Net enrollment rate,2025,96.5,Male,Primary,%
+122,16,Net enrollment rate,2025,95,Female,Primary,%
+123,16,Net enrollment rate,2025,93.2,Male,Secondary,%
+124,16,Net enrollment rate,2025,73.2,Female,Secondary,%
+125,16,Completion rate,2025,79.1,Male,Primary,%
+126,16,Completion rate,2025,91.2,Female,Primary,%
+127,16,Completion rate,2025,97.9,Male,Secondary,%
+128,16,Completion rate,2025,87.4,Female,Secondary,%
+129,17,Net enrollment rate,2025,69.7,Male,Primary,%
+130,17,Net enrollment rate,2025,68.1,Female,Primary,%
+131,17,Net enrollment rate,2025,63.6,Male,Secondary,%
+132,17,Net enrollment rate,2025,89.8,Female,Secondary,%
+133,17,Completion rate,2025,62.2,Male,Primary,%
+134,17,Completion rate,2025,64.8,Female,Primary,%
+135,17,Completion rate,2025,75.1,Male,Secondary,%
+136,17,Completion rate,2025,74.3,Female,Secondary,%
+137,18,Net enrollment rate,2025,91.2,Male,Primary,%
+138,18,Net enrollment rate,2025,70.2,Female,Primary,%
+139,18,Net enrollment rate,2025,63.2,Male,Secondary,%
+140,18,Net enrollment rate,2025,75.4,Female,Secondary,%
+141,18,Completion rate,2025,78.7,Male,Primary,%
+142,18,Completion rate,2025,90.3,Female,Primary,%
+143,18,Completion rate,2025,73.2,Male,Secondary,%
+144,18,Completion rate,2025,80,Female,Secondary,%
+145,19,Net enrollment rate,2025,95.2,Male,Primary,%
+146,19,Net enrollment rate,2025,68.9,Female,Primary,%
+147,19,Net enrollment rate,2025,89.5,Male,Secondary,%
+148,19,Net enrollment rate,2025,91.1,Female,Secondary,%
+149,19,Completion rate,2025,89.6,Male,Primary,%
+150,19,Completion rate,2025,68,Female,Primary,%
+151,19,Completion rate,2025,68.1,Male,Secondary,%
+152,19,Completion rate,2025,63.8,Female,Secondary,%
+153,20,Net enrollment rate,2025,74.7,Male,Primary,%
+154,20,Net enrollment rate,2025,79.3,Female,Primary,%
+155,20,Net enrollment rate,2025,74.7,Male,Secondary,%
+156,20,Net enrollment rate,2025,80.6,Female,Secondary,%
+157,20,Completion rate,2025,73.3,Male,Primary,%
+158,20,Completion rate,2025,70.8,Female,Primary,%
+159,20,Completion rate,2025,62.7,Male,Secondary,%
+160,20,Completion rate,2025,86.6,Female,Secondary,%
+161,21,Net enrollment rate,2025,74.7,Male,Primary,%
+162,21,Net enrollment rate,2025,68.4,Female,Primary,%
+163,21,Net enrollment rate,2025,87.2,Male,Secondary,%
+164,21,Net enrollment rate,2025,74.7,Female,Secondary,%
+165,21,Completion rate,2025,69,Male,Primary,%
+166,21,Completion rate,2025,96.7,Female,Primary,%
+167,21,Completion rate,2025,63.5,Male,Secondary,%
+168,21,Completion rate,2025,81.1,Female,Secondary,%
+169,22,Net enrollment rate,2025,93.9,Male,Primary,%
+170,22,Net enrollment rate,2025,87.9,Female,Primary,%
+171,22,Net enrollment rate,2025,86.2,Male,Secondary,%
+172,22,Net enrollment rate,2025,93.8,Female,Secondary,%
+173,22,Completion rate,2025,87.5,Male,Primary,%
+174,22,Completion rate,2025,65.1,Female,Primary,%
+175,22,Completion rate,2025,79.7,Male,Secondary,%
+176,22,Completion rate,2025,97.3,Female,Secondary,%
+177,23,Net enrollment rate,2025,82,Male,Primary,%
+178,23,Net enrollment rate,2025,98.3,Female,Primary,%
+179,23,Net enrollment rate,2025,88,Male,Secondary,%
+180,23,Net enrollment rate,2025,85.2,Female,Secondary,%
+181,23,Completion rate,2025,69.5,Male,Primary,%
+182,23,Completion rate,2025,70.3,Female,Primary,%
+183,23,Completion rate,2025,91.4,Male,Secondary,%
+184,23,Completion rate,2025,66.8,Female,Secondary,%
+185,24,Net enrollment rate,2025,74,Male,Primary,%
+186,24,Net enrollment rate,2025,89.6,Female,Primary,%
+187,24,Net enrollment rate,2025,73.9,Male,Secondary,%
+188,24,Net enrollment rate,2025,70.2,Female,Secondary,%
+189,24,Completion rate,2025,67.5,Male,Primary,%
+190,24,Completion rate,2025,73.5,Female,Primary,%
+191,24,Completion rate,2025,76.4,Male,Secondary,%
+192,24,Completion rate,2025,81.3,Female,Secondary,%
+193,25,Net enrollment rate,2025,66.2,Male,Primary,%
+194,25,Net enrollment rate,2025,75.6,Female,Primary,%
+195,25,Net enrollment rate,2025,82.5,Male,Secondary,%
+196,25,Net enrollment rate,2025,90.1,Female,Secondary,%
+197,25,Completion rate,2025,69.6,Male,Primary,%
+198,25,Completion rate,2025,96.4,Female,Primary,%
+199,25,Completion rate,2025,89.5,Male,Secondary,%
+200,25,Completion rate,2025,62.4,Female,Secondary,%
+201,26,Net enrollment rate,2025,93.7,Male,Primary,%
+202,26,Net enrollment rate,2025,97,Female,Primary,%
+203,26,Net enrollment rate,2025,69.5,Male,Secondary,%
+204,26,Net enrollment rate,2025,86.2,Female,Secondary,%
+205,26,Completion rate,2025,73.2,Male,Primary,%
+206,26,Completion rate,2025,64.3,Female,Primary,%
+207,26,Completion rate,2025,86.4,Male,Secondary,%
+208,26,Completion rate,2025,91.8,Female,Secondary,%
+209,27,Net enrollment rate,2025,84.3,Male,Primary,%
+210,27,Net enrollment rate,2025,79.7,Female,Primary,%
+211,27,Net enrollment rate,2025,71.8,Male,Secondary,%
+212,27,Net enrollment rate,2025,,Female,Secondary,%
+213,27,Completion rate,2025,81.3,Male,Primary,%
+214,27,Completion rate,2025,62.4,Female,Primary,%
+215,27,Completion rate,2025,68.2,Male,Secondary,%
+216,27,Completion rate,2025,62.9,Female,Secondary,%
+217,28,Net enrollment rate,2025,71.5,Male,Primary,%
+218,28,Net enrollment rate,2025,93.9,Female,Primary,%
+219,28,Net enrollment rate,2025,70.7,Male,Secondary,%
+220,28,Net enrollment rate,2025,79.2,Female,Secondary,%
+221,28,Completion rate,2025,73,Male,Primary,
+222,28,Completion rate,2025,82.9,Female,Primary,%
+223,28,Completion rate,2025,92.2,Male,Secondary,%
+224,28,Completion rate,2025,83.8,Female,Secondary,%
+225,29,Net enrollment rate,2025,87.6,Male,Primary,%
+226,29,Net enrollment rate,2025,97.6,Female,Primary,%
+227,29,Net enrollment rate,2025,62.6,Male,Secondary,%
+228,29,Net enrollment rate,2025,74.8,Female,Secondary,%
+229,29,Completion rate,2025,85.8,Male,Primary,%
+230,29,Completion rate,2025,97.6,Female,Primary,%
+231,29,Completion rate,2025,78.5,Male,Secondary,%
+232,29,Completion rate,2025,74.2,Female,Secondary,%
+233,30,Net enrollment rate,2025,81.6,Male,Primary,%
+234,30,Net enrollment rate,2025,80.7,Female,Primary,%
+235,30,Net enrollment rate,2025,73.5,Male,Secondary,%
+236,30,Net enrollment rate,2025,78.8,Female,Secondary,%
+237,30,Completion rate,2025,82.1,Male,Primary,%
+238,30,Completion rate,2025,79.6,Female,Primary,%
+239,30,Completion rate,2025,74.2,Male,Secondary,%
+240,30,Completion rate,2025,74.7,Female,Secondary,%
+241,31,Net enrollment rate,2025,66.8,Male,Primary,%
+242,31,Net enrollment rate,2025,64.1,Female,Primary,%
+243,31,Net enrollment rate,2025,96,Male,Secondary,%
+244,31,Net enrollment rate,2025,92.9,Female,Secondary,%
+245,31,Completion rate,2025,81.8,Male,Primary,%
+246,31,Completion rate,2025,62.9,Female,Primary,%
+247,31,Completion rate,2025,70.8,Male,Secondary,%
+248,31,Completion rate,2025,91.2,Female,Secondary,%
+249,32,Net enrollment rate,2025,78.7,Male,Primary,%
+250,32,Net enrollment rate,2025,75.5,Female,Primary,%
+251,32,Net enrollment rate,2025,,Male,Secondary,%
+252,32,Net enrollment rate,2025,98.6,Female,Secondary,%
+253,32,Completion rate,2025,91.7,Male,Primary,%
+254,32,Completion rate,2025,76.4,Female,Primary,%
+255,32,Completion rate,2025,81,Male,Secondary,%
+256,32,Completion rate,2025,,Female,Secondary,%
+257,33,Net enrollment rate,2025,71.5,Male,Primary,%
+258,33,Net enrollment rate,2025,98.4,Female,Primary,%
+259,33,Net enrollment rate,2025,73.5,Male,Secondary,%
+260,33,Net enrollment rate,2025,77.3,Female,Secondary,%
+261,33,Completion rate,2025,63.8,Male,Primary,%
+262,33,Completion rate,2025,64.7,Female,Primary,%
+263,33,Completion rate,2025,94.8,Male,Secondary,%
+264,33,Completion rate,2025,65.6,Female,Secondary,%
+265,34,Net enrollment rate,2025,97.5,Male,Primary,%
+266,34,Net enrollment rate,2025,96.1,Female,Primary,%
+267,34,Net enrollment rate,2025,85.6,Male,Secondary,%
+268,34,Net enrollment rate,2025,65,Female,Secondary,%
+269,34,Completion rate,2025,87,Male,Primary,%
+270,34,Completion rate,2025,71.6,Female,Primary,%
+271,34,Completion rate,2025,98.1,Male,Secondary,%
+272,34,Completion rate,2025,87.1,Female,Secondary,%
+273,35,Net enrollment rate,2025,86.9,Male,Primary,%
+274,35,Net enrollment rate,2025,76.3,Female,Primary,%
+275,35,Net enrollment rate,2025,85.8,Male,Secondary,%
+276,35,Net enrollment rate,2025,86.9,Female,Secondary,%
+277,35,Completion rate,2025,97.9,Male,Primary,%
+278,35,Completion rate,2025,67.7,Female,Primary,%
+279,35,Completion rate,2025,74,Male,Secondary,%
+280,35,Completion rate,2025,86.5,Female,Secondary,%
+281,36,Net enrollment rate,2025,83.1,Male,Primary,%
+282,36,Net enrollment rate,2025,95.1,Female,Primary,%
+283,36,Net enrollment rate,2025,75.9,Male,Secondary,%
+284,36,Net enrollment rate,2025,87.6,Female,Secondary,%
+285,36,Completion rate,2025,70.5,Male,Primary,%
+286,36,Completion rate,2025,71.8,Female,Primary,%
+287,36,Completion rate,2025,93.9,Male,Secondary,%
+288,36,Completion rate,2025,64,Female,Secondary,%
+289,37,Net enrollment rate,2025,69.2,Male,Primary,%
+290,37,Net enrollment rate,2025,80.5,Female,Primary,%
+291,37,Net enrollment rate,2025,82.3,Male,Secondary,%
+292,37,Net enrollment rate,2025,86,Female,Secondary,%
+293,37,Completion rate,2025,96.1,Male,Primary,%
+294,37,Completion rate,2025,72.7,Female,Primary,%
+295,37,Completion rate,2025,74,Male,Secondary,%
+296,37,Completion rate,2025,88.4,Female,Secondary,%
+297,38,Net enrollment rate,2025,66.1,Male,Primary,%
+298,38,Net enrollment rate,2025,97.4,Female,Primary,%
+299,38,Net enrollment rate,2025,63.1,Male,Secondary,%
+300,38,Net enrollment rate,2025,88.9,Female,Secondary,%
+301,38,Completion rate,2025,82.1,Male,Primary,%
+302,38,Completion rate,2025,74.8,Female,Primary,%
+303,38,Completion rate,2025,89.9,Male,Secondary,%
+304,38,Completion rate,2025,69,Female,Secondary,%
+305,39,Net enrollment rate,2025,84.8,Male,Primary,%
+306,39,Net enrollment rate,2025,79,Female,Primary,%
+307,39,Net enrollment rate,2025,83.3,Male,Secondary,%
+308,39,Net enrollment rate,2025,74.1,Female,Secondary,%
+309,39,Completion rate,2025,72.2,Male,Primary,%
+310,39,Completion rate,2025,66.9,Female,Primary,%
+311,39,Completion rate,2025,71.3,Male,Secondary,%
+312,39,Completion rate,2025,90.4,Female,Secondary,%
+313,40,Net enrollment rate,2025,73.3,Male,Primary,%
+314,40,Net enrollment rate,2025,67.7,Female,Primary,%
+315,40,Net enrollment rate,2025,74,Male,Secondary,%
+316,40,Net enrollment rate,2025,62.9,Female,Secondary,%
+317,40,Completion rate,2025,71.3,Male,Primary,%
+318,40,Completion rate,2025,91.4,Female,Primary,%
+319,40,Completion rate,2025,75,Male,Secondary,%
+320,40,Completion rate,2025,66.4,Female,Secondary,%
+321,41,Net enrollment rate,2025,84.2,Male,Primary,%
+322,41,Net enrollment rate,2025,82.4,Female,Primary,%
+323,41,Net enrollment rate,2025,63.4,Male,Secondary,%
+324,41,Net enrollment rate,2025,82.4,Female,Secondary,%
+325,41,Completion rate,2025,72.8,Male,Primary,%
+326,41,Completion rate,2025,93.4,Female,Primary,%
+327,41,Completion rate,2025,87.2,Male,Secondary,%
+328,41,Completion rate,2025,70.1,Female,Secondary,%
+329,42,Net enrollment rate,2025,91,Male,Primary,%
+330,42,Net enrollment rate,2025,88.2,Female,Primary,%
+331,42,Net enrollment rate,2025,72.1,Male,Secondary,%
+332,42,Net enrollment rate,2025,71.4,Female,Secondary,%
+333,42,Completion rate,2025,66,Male,Primary,%
+334,42,Completion rate,2025,82.4,Female,Primary,%
+335,42,Completion rate,2025,64.6,Male,Secondary,%
+336,42,Completion rate,2025,83.4,Female,Secondary,%
+337,43,Net enrollment rate,2025,72.9,Male,Primary,%
+338,43,Net enrollment rate,2025,85,Female,Primary,%
+339,43,Net enrollment rate,2025,90.4,Male,Secondary,%
+340,43,Net enrollment rate,2025,95.6,Female,Secondary,%
+341,43,Completion rate,2025,68.1,Male,Primary,%
+342,43,Completion rate,2025,74.1,Female,Primary,%
+343,43,Completion rate,2025,90.4,Male,Secondary,%
+344,43,Completion rate,2025,69.5,Female,Secondary,%
+345,44,Net enrollment rate,2025,96.1,Male,Primary,%
+346,44,Net enrollment rate,2025,62.3,Female,Primary,%
+347,44,Net enrollment rate,2025,67.7,Male,Secondary,%
+348,44,Net enrollment rate,2025,77.8,Female,Secondary,%
+349,44,Completion rate,2025,63,Male,Primary,%
+350,44,Completion rate,2025,69.9,Female,Primary,%
+351,44,Completion rate,2025,77.7,Male,Secondary,%
+352,44,Completion rate,2025,72.7,Female,Secondary,%
+353,45,Net enrollment rate,2025,72.4,Male,Primary,%
+354,45,Net enrollment rate,2025,68.9,Female,Primary,%
+355,45,Net enrollment rate,2025,73.5,Male,Secondary,%
+356,45,Net enrollment rate,2025,92.2,Female,Secondary,%
+357,45,Completion rate,2025,66.1,Male,Primary,%
+358,45,Completion rate,2025,77.1,Female,Primary,%
+359,45,Completion rate,2025,88.3,Male,Secondary,%
+360,45,Completion rate,2025,73.8,Female,Secondary,%
+361,46,Net enrollment rate,2025,73.1,Male,Primary,%
+362,46,Net enrollment rate,2025,97.1,Female,Primary,%
+363,46,Net enrollment rate,2025,64.2,Male,Secondary,%
+364,46,Net enrollment rate,2025,71.7,Female,Secondary,%
+365,46,Completion rate,2025,73.3,Male,Primary,%
+366,46,Completion rate,2025,80,Female,Primary,%
+367,46,Completion rate,2025,75.5,Male,Secondary,%
+368,46,Completion rate,2025,91.9,Female,Secondary,%
+369,47,Net enrollment rate,2025,98.5,Male,Primary,%
+370,47,Net enrollment rate,2025,76.4,Female,Primary,%
+371,47,Net enrollment rate,2025,87.9,Male,Secondary,%
+372,47,Net enrollment rate,2025,67.4,Female,Secondary,%
+373,47,Completion rate,2025,88.6,Male,Primary,%
+374,47,Completion rate,2025,70.4,Female,Primary,%
+375,47,Completion rate,2025,72.9,Male,Secondary,%
+376,47,Completion rate,2025,64.7,Female,Secondary,%
+377,48,Net enrollment rate,2025,81.5,Male,Primary,%
+378,48,Net enrollment rate,2025,91.5,Female,Primary,%
+379,48,Net enrollment rate,2025,70,Male,Secondary,%
+380,48,Net enrollment rate,2025,90,Female,Secondary,%
+381,48,Completion rate,2025,77.5,Male,Primary,%
+382,48,Completion rate,2025,65.7,Female,Primary,%
+383,48,Completion rate,2025,86.8,Male,Secondary,%
+384,48,Completion rate,2025,64.1,Female,Secondary,%
+385,49,Net enrollment rate,2025,91.8,Male,Primary,%
+386,49,Net enrollment rate,2025,77.8,Female,Primary,%
+387,49,Net enrollment rate,2025,71.8,Male,Secondary,%
+388,49,Net enrollment rate,2025,62.6,Female,Secondary,%
+389,49,Completion rate,2025,96.7,Male,Primary,%
+390,49,Completion rate,2025,91.6,Female,Primary,%
+391,49,Completion rate,2025,76.3,Male,Secondary,%
+392,49,Completion rate,2025,92.3,Female,Secondary,%
+393,50,Net enrollment rate,2025,80.6,Male,Primary,%
+394,50,Net enrollment rate,2025,63.6,Female,Primary,%
+395,50,Net enrollment rate,2025,78.4,Male,Secondary,%
+396,50,Net enrollment rate,2025,67.6,Female,Secondary,%
+397,50,Completion rate,2025,67.1,Male,Primary,%
+398,50,Completion rate,2025,93.5,Female,Primary,%
+399,50,Completion rate,2025,63.7,Male,Secondary,%
+400,50,Completion rate,2025,80.1,Female,Secondary,%
+401,51,Net enrollment rate,2025,73.7,Male,Primary,%
+402,51,Net enrollment rate,2025,80,Female,Primary,%
+403,51,Net enrollment rate,2025,88.3,Male,Secondary,%
+404,51,Net enrollment rate,2025,63,Female,Secondary,%
+405,51,Completion rate,2025,74.7,Male,Primary,%
+406,51,Completion rate,2025,69.7,Female,Primary,%
+407,51,Completion rate,2025,90.4,Male,Secondary,%
+408,51,Completion rate,2025,72.6,Female,Secondary,%
+409,52,Net enrollment rate,2025,69.8,Male,Primary,%
+410,52,Net enrollment rate,2025,70.4,Female,Primary,%
+411,52,Net enrollment rate,2025,89.1,Male,Secondary,%
+412,52,Net enrollment rate,2025,86.2,Female,Secondary,%
+413,52,Completion rate,2025,79.2,Male,Primary,%
+414,52,Completion rate,2025,69.4,Female,Primary,%
+415,52,Completion rate,2025,82.5,Male,Secondary,%
+416,52,Completion rate,2025,63.4,Female,Secondary,%
+417,53,Net enrollment rate,2025,88.1,Male,Primary,%
+418,53,Net enrollment rate,2025,91,Female,Primary,%
+419,53,Net enrollment rate,2025,70.4,Male,Secondary,%
+420,53,Net enrollment rate,2025,72.8,Female,Secondary,%
+421,53,Completion rate,2025,91.9,Male,Primary,%
+422,53,Completion rate,2025,,Female,Primary,%
+423,53,Completion rate,2025,87,Male,Secondary,%
+424,53,Completion rate,2025,98.3,Female,Secondary,%
+425,54,Net enrollment rate,2025,82.4,Male,Primary,%
+426,54,Net enrollment rate,2025,84.4,Female,Primary,%
+427,54,Net enrollment rate,2025,82.7,Male,Secondary,%
+428,54,Net enrollment rate,2025,80.2,Female,Secondary,%
+429,54,Completion rate,2025,66.6,Male,Primary,%
+430,54,Completion rate,2025,81.5,Female,Primary,%
+431,54,Completion rate,2025,77.1,Male,Secondary,%
+432,54,Completion rate,2025,72.2,Female,Secondary,%
+433,55,Net enrollment rate,2025,70.3,Male,Primary,%
+434,55,Net enrollment rate,2025,85.4,Female,Primary,%
+435,55,Net enrollment rate,2025,93.8,Male,Secondary,%
+436,55,Net enrollment rate,2025,94.5,Female,Secondary,%
+437,55,Completion rate,2025,71.8,Male,Primary,%
+438,55,Completion rate,2025,73.7,Female,Primary,%
+439,55,Completion rate,2025,68.2,Male,Secondary,%
+440,55,Completion rate,2025,93.3,Female,Secondary,%
+441,56,Net enrollment rate,2025,86.1,Male,Primary,%
+442,56,Net enrollment rate,2025,94.1,Female,Primary,%
+443,56,Net enrollment rate,2025,89.7,Male,Secondary,%
+444,56,Net enrollment rate,2025,89.8,Female,Secondary,%
+445,56,Completion rate,2025,90.4,Male,Primary,%
+446,56,Completion rate,2025,69.9,Female,Primary,%
+447,56,Completion rate,2025,90.6,Male,Secondary,%
+448,56,Completion rate,2025,75.9,Female,Secondary,%
+449,57,Net enrollment rate,2025,68.1,Male,Primary,%
+450,57,Net enrollment rate,2025,89,Female,Primary,%
+451,57,Net enrollment rate,2025,70.5,Male,Secondary,%
+452,57,Net enrollment rate,2025,75.5,Female,Secondary,%
+453,57,Completion rate,2025,66.7,Male,Primary,%
+454,57,Completion rate,2025,97.3,Female,Primary,%
+455,57,Completion rate,2025,85.2,Male,Secondary,%
+456,57,Completion rate,2025,,Female,Secondary,%
+457,58,Net enrollment rate,2025,80.6,Male,Primary,%
+458,58,Net enrollment rate,2025,73.7,Female,Primary,%
+459,58,Net enrollment rate,2025,90.1,Male,Secondary,%
+460,58,Net enrollment rate,2025,72.1,Female,Secondary,%
+461,58,Completion rate,2025,95.1,Male,Primary,%
+462,58,Completion rate,2025,84.5,Female,Primary,%
+463,58,Completion rate,2025,81.7,Male,Secondary,%
+464,58,Completion rate,2025,85.9,Female,Secondary,%
+465,59,Net enrollment rate,2025,62.9,Male,Primary,%
+466,59,Net enrollment rate,2025,64.3,Female,Primary,%
+467,59,Net enrollment rate,2025,66.4,Male,Secondary,%
+468,59,Net enrollment rate,2025,92.6,Female,Secondary,%
+469,59,Completion rate,2025,78.8,Male,Primary,%
+470,59,Completion rate,2025,65.2,Female,Primary,%
+471,59,Completion rate,2025,69.4,Male,Secondary,%
+472,59,Completion rate,2025,76.9,Female,Secondary,%
+473,60,Net enrollment rate,2025,70.5,Male,Primary,%
+474,60,Net enrollment rate,2025,93.4,Female,Primary,%
+475,60,Net enrollment rate,2025,75.4,Male,Secondary,%
+476,60,Net enrollment rate,2025,62.2,Female,Secondary,%
+477,60,Completion rate,2025,81.8,Male,Primary,%
+478,60,Completion rate,2025,86,Female,Primary,%
+479,60,Completion rate,2025,89.6,Male,Secondary,%
+480,60,Completion rate,2025,82.1,Female,Secondary,%
+481,61,Net enrollment rate,2025,63.2,Male,Primary,%
+482,61,Net enrollment rate,2025,74.8,Female,Primary,%
+483,61,Net enrollment rate,2025,94.8,Male,Secondary,%
+484,61,Net enrollment rate,2025,72.2,Female,Secondary,%
+485,61,Completion rate,2025,97,Male,Primary,%
+486,61,Completion rate,2025,85.3,Female,Primary,%
+487,61,Completion rate,2025,70.3,Male,Secondary,%
+488,61,Completion rate,2025,87.4,Female,Secondary,%
+489,62,Net enrollment rate,2025,75.2,Male,Primary,%
+490,62,Net enrollment rate,2025,97.4,Female,Primary,%
+491,62,Net enrollment rate,2025,98.9,Male,Secondary,%
+492,62,Net enrollment rate,2025,78.3,Female,Secondary,%
+493,62,Completion rate,2025,71.3,Male,Primary,%
+494,62,Completion rate,2025,92.5,Female,Primary,%
+495,62,Completion rate,2025,84.2,Male,Secondary,%
+496,62,Completion rate,2025,96.2,Female,Secondary,%
+497,63,Net enrollment rate,2025,81.3,Male,Primary,%
+498,63,Net enrollment rate,2025,68.7,Female,Primary,%
+499,63,Net enrollment rate,2025,92.7,Male,Secondary,%
+500,63,Net enrollment rate,2025,74.5,Female,Secondary,%
+501,63,Completion rate,2025,82.6,Male,Primary,%
+502,63,Completion rate,2025,78.9,Female,Primary,%
+503,63,Completion rate,2025,70.9,Male,Secondary,%
+504,63,Completion rate,2025,87.2,Female,Secondary,%
+505,64,Net enrollment rate,2025,71,Male,Primary,%
+506,64,Net enrollment rate,2025,83.6,Female,Primary,%
+507,64,Net enrollment rate,2025,89.7,Male,Secondary,%
+508,64,Net enrollment rate,2025,81.4,Female,Secondary,%
+509,64,Completion rate,2025,90.9,Male,Primary,%
+510,64,Completion rate,2025,88.2,Female,Primary,%
+511,64,Completion rate,2025,74.5,Male,Secondary,%
+512,64,Completion rate,2025,97.9,Female,Secondary,%
