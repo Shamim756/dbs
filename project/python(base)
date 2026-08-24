@@ -1,0 +1,146 @@
+import os
+import sys
+import json
+import pandas as pd
+import pdfplumber
+
+
+def pdf_to_csv(input_file, output_file):
+    all_rows = []
+
+    with pdfplumber.open(input_file) as pdf:
+        for page_no, page in enumerate(pdf.pages, start=1):
+            tables = page.extract_tables()
+
+            for table in tables:
+                if table:
+                    for row in table:
+                        all_rows.append(row)
+
+    if not all_rows:
+        print("No table found in PDF.")
+        print("If the PDF is scanned/image-based, OCR will be required.")
+        return
+
+    # First row is treated as header
+    header = all_rows[0]
+    data = all_rows[1:]
+
+    df = pd.DataFrame(data, columns=header)
+    df.to_csv(output_file, index=False, encoding="utf-8-sig")
+
+    print(f"PDF converted successfully: {output_file}")
+
+
+def excel_to_csv(input_file, output_file):
+    df = pd.read_excel(input_file)
+    df.to_csv(output_file, index=False, encoding="utf-8-sig")
+
+    print(f"Excel converted successfully: {output_file}")
+
+
+def json_to_csv(input_file, output_file):
+    with open(input_file, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    # Handle a single JSON object
+    if isinstance(data, dict):
+        data = [data]
+
+    df = pd.json_normalize(data)
+    df.to_csv(output_file, index=False, encoding="utf-8-sig")
+
+    print(f"JSON converted successfully: {output_file}")
+
+
+def txt_to_csv(input_file, output_file):
+    # Try common separators automatically
+    try:
+        df = pd.read_csv(
+            input_file,
+            sep=None,
+            engine="python"
+        )
+
+        df.to_csv(
+            output_file,
+            index=False,
+            encoding="utf-8-sig"
+        )
+
+        print(f"TXT converted successfully: {output_file}")
+
+    except Exception as e:
+        print("Could not automatically understand TXT format.")
+        print(e)
+
+
+def csv_to_csv(input_file, output_file):
+    df = pd.read_csv(input_file)
+
+    df.to_csv(
+        output_file,
+        index=False,
+        encoding="utf-8-sig"
+    )
+
+    print(f"CSV saved successfully: {output_file}")
+
+
+def convert_file(input_file, output_file=None):
+
+    if not os.path.exists(input_file):
+        print("File not found:", input_file)
+        return
+
+    filename = os.path.basename(input_file)
+    name, extension = os.path.splitext(filename)
+
+    extension = extension.lower()
+
+    if output_file is None:
+        output_file = name + ".csv"
+
+    if extension == ".pdf":
+        pdf_to_csv(input_file, output_file)
+
+    elif extension in [".xlsx", ".xls"]:
+        excel_to_csv(input_file, output_file)
+
+    elif extension == ".json":
+        json_to_csv(input_file, output_file)
+
+    elif extension == ".txt":
+        txt_to_csv(input_file, output_file)
+
+    elif extension == ".csv":
+        csv_to_csv(input_file, output_file)
+
+    else:
+        print("Unsupported file type:", extension)
+        print("Supported:")
+        print("PDF")
+        print("Excel (.xlsx, .xls)")
+        print("JSON")
+        print("TXT")
+        print("CSV")
+
+
+if __name__ == "__main__":
+
+    if len(sys.argv) < 2:
+        print("Usage:")
+        print("python convert_to_csv.py input_file")
+        print()
+        print("Example:")
+        print("python convert_to_csv.py data.pdf")
+        sys.exit()
+
+    input_file = sys.argv[1]
+
+    if len(sys.argv) >= 3:
+        output_file = sys.argv[2]
+    else:
+        output_file = None
+
+    convert_file(input_file, output_file)
