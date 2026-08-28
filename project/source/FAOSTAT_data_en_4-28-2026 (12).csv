@@ -1,0 +1,7 @@
+﻿Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description
+"PD","Deflators","050","Bangladesh","62250","Value Standard Local Currency, 2015 prices","22024","GDP Deflator","2024","2024","SLC","159.5695026826","E","Estimated value"
+"PD","Deflators","050","Bangladesh","6179","Value US$, 2015 prices","22024","GDP Deflator","2024","2024","USD","107.5913173118","E","Estimated value"
+"PD","Deflators","050","Bangladesh","62250","Value Standard Local Currency, 2015 prices","22025","Gross Fixed Capital Formation Deflator","2024","2024","SLC","153.3117404597","E","Estimated value"
+"PD","Deflators","050","Bangladesh","6179","Value US$, 2015 prices","22025","Gross Fixed Capital Formation Deflator","2024","2024","USD","103.3719591659","E","Estimated value"
+"PD","Deflators","050","Bangladesh","62250","Value Standard Local Currency, 2015 prices","22026","Value Added Deflator (Agriculture, forestry and fishery)","2024","2024","SLC","162.9809827129","E","Estimated value"
+"PD","Deflators","050","Bangladesh","6179","Value US$, 2015 prices","22026","Value Added Deflator (Agriculture, forestry and fishery)","2024","2024","USD","109.8915415042","E","Estimated value"
