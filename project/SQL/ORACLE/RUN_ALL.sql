@@ -1,0 +1,6 @@
+-- Run with F5 in Oracle SQL Developer
+SET DEFINE OFF;
+@DROP_ALL_TABLES.sql
+@ALL_TABLES_CREATE.sql
+@ALL_TABLES_INSERT.sql
+@VERIFY_ROW_COUNTS.sql
