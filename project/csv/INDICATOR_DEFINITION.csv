@@ -1,0 +1,43 @@
+﻿indicator_id,domain_name,indicator_name,unit_id
+1,DEMOGRAPHIC_RATIO,Sex ratio (males per 100 females),1
+2,DEMOGRAPHIC_RATIO,Population density,2
+3,DEMOGRAPHIC_RATIO,Child-woman ratio - Total,3
+4,DEMOGRAPHIC_RATIO,Child-woman ratio - Rural,3
+5,DEMOGRAPHIC_RATIO,Child-woman ratio - Urban,3
+6,DEMOGRAPHIC_RATIO,Dependency ratio - Total,1
+7,DEMOGRAPHIC_RATIO,Dependency ratio - Rural,1
+8,DEMOGRAPHIC_RATIO,Dependency ratio - Urban,1
+9,DEMOGRAPHIC_RATIO,Urban population share,4
+10,HOUSEHOLD_STRUCTURE,Household Count,5
+11,HOUSEHOLD_STRUCTURE,Population Count,6
+12,HOUSEHOLD_STRUCTURE,Population Share,4
+13,HOUSEHOLD_STRUCTURE,Average Household Size,7
+14,MARITAL_STATUS,"Marital Population Count (Age 10+, All Sexes)",6
+15,MARITAL_STATUS,"Marital Population Share (Age 10+, All Sexes)",4
+16,RELIGION_DISTRIBUTION,Religion Population Count (All Sexes),6
+17,RELIGION_DISTRIBUTION,Religion Population Share (All Sexes),4
+18,DISABILITY_PROFILE,Persons with at least one disability (All Ages),6
+19,DISABILITY_PROFILE,Disability prevalence (All Ages),4
+20,DISABILITY_PROFILE,Share among persons with disabilities (All Ages),4
+21,EDUCATION_PROFILE,Literacy rate (age 7+),4
+22,MIGRATION_PROFILE,Internal migration,4
+23,MIGRATION_PROFILE,International migration,4
+24,ETHNICITY_PROFILE,Ethnic Group Population Count,6
+25,ETHNICITY_PROFILE,Ethnic Group Population Share,4
+26,DIGITAL_ACCESS,Mobile phone use,4
+27,DIGITAL_ACCESS,Internet use,4
+28,HOUSING_CONDITION,Dwelling Units Count,8
+29,BASIC_SERVICES_ACCESS,Main source of drinking water,4
+30,BASIC_SERVICES_ACCESS,Toilet facility,4
+31,BASIC_SERVICES_ACCESS,Main source of electricity,4
+32,HOUSEHOLD_EXPENDITURE,Average monthly household expenditure - Amount,9
+33,HOUSEHOLD_EXPENDITURE,Average monthly household consumption expenditure - Amount,9
+34,HOUSEHOLD_EXPENDITURE,Average monthly household consumption expenditure by category - Amount,9
+35,HOUSEHOLD_EXPENDITURE,Average monthly household consumption expenditure by category - Share,4
+36,CONSUMPTION_PATTERN,Consumption Share,4
+37,POVERTY_PROFILE,Headcount rate,4
+38,POVERTY_PROFILE,Poverty gap,4
+39,POVERTY_PROFILE,Squared poverty gap,4
+40,INEQUALITY_PROFILE,Income share,4
+41,INEQUALITY_PROFILE,Income Gini coefficient,10
+42,INEQUALITY_PROFILE,Consumption Gini coefficient,10

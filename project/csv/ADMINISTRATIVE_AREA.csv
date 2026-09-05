@@ -1,0 +1,56 @@
+﻿area_id,area_code,area_name,area_level_id,parent_area_id
+1,BGD,Bangladesh,1,
+2,10,Barishal,2,1
+3,20,Chattogram,2,1
+4,30,Dhaka,2,1
+5,40,Khulna,2,1
+6,45,Mymensingh,2,1
+7,50,Rajshahi,2,1
+8,55,Rangpur,2,1
+9,60,Sylhet,2,1
+10,,Barishal City Corporation,3,2
+11,,Chattogram City Corporation,3,3
+12,,Cumilla City Corporation,3,3
+13,,Dhaka North City Corporation,3,4
+14,,Dhaka South City Corporation,3,4
+15,,Gazipur City Corporation,3,4
+16,,Khulna City Corporation,3,5
+17,,Mymensingh City Corporation,3,6
+18,,Narayanganj City Corporation,3,4
+19,,Rajshahi City Corporation,3,7
+20,,Rangpur City Corporation,3,8
+21,,Sylhet City Corporation,3,9
+22,,Barguna,4,2
+23,,Barishal District,4,2
+24,,Bhola,4,2
+25,,Jhalokati,4,2
+26,,Patuakhali,4,2
+27,,Pirojpur,4,2
+28,,Bandarban,4,3
+29,,Brahmanbaria,4,3
+30,,Chandpur,4,3
+31,,Chattogram District,4,3
+32,,Cumilla District,4,3
+33,,Cox's Bazar,4,3
+34,,Feni,4,3
+35,,Khagrachhari,4,3
+36,,Lakshmipur,4,3
+37,,Noakhali,4,3
+38,,Rangamati,4,3
+39,,Dhaka District,4,4
+40,,Faridpur,4,4
+41,,Gazipur District,4,4
+42,,Gopalganj,4,4
+43,,Kishoreganj,4,4
+44,,Madaripur,4,4
+45,,Manikganj,4,4
+46,,Munshiganj,4,4
+47,,Narayanganj District,4,4
+48,,Narsingdi,4,4
+49,,Rajbari,4,4
+50,,Shariatpur,4,4
+51,,Tangail,4,4
+52,,Bagerhat,4,5
+53,,Chuadanga,4,5
+54,,Jashore,4,5
+55,,Jhenaidah,4,5

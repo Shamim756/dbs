@@ -1,0 +1,91 @@
+﻿disability_id,area_id,year,indicator_id,disability_type,sex,value
+1,1,2022,18,Any,All,2361604
+2,1,2022,18,Any,Male,1334105
+3,1,2022,18,Any,Female,1027499
+4,1,2022,19,Any,All,1
+5,1,2022,19,Any,Male,1
+6,1,2022,19,Any,Female,1
+7,2,2022,18,Any,All,146540
+8,2,2022,18,Any,Male,82544
+9,2,2022,18,Any,Female,63996
+10,2,2022,19,Any,All,1
+11,2,2022,19,Any,Male,1
+12,2,2022,19,Any,Female,1
+13,3,2022,18,Any,All,444606
+14,3,2022,18,Any,Male,253674
+15,3,2022,18,Any,Female,190932
+16,3,2022,19,Any,All,1
+17,3,2022,19,Any,Male,1
+18,3,2022,19,Any,Female,1
+19,4,2022,18,Any,All,474988
+20,4,2022,18,Any,Male,268302
+21,4,2022,18,Any,Female,206686
+22,4,2022,19,Any,All,1
+23,4,2022,19,Any,Male,1
+24,4,2022,19,Any,Female,0
+25,5,2022,18,Any,All,308185
+26,5,2022,18,Any,Male,174899
+27,5,2022,18,Any,Female,133286
+28,5,2022,19,Any,All,1
+29,5,2022,19,Any,Male,2
+30,5,2022,19,Any,Female,1
+31,6,2022,18,Any,All,188043
+32,6,2022,18,Any,Male,104310
+33,6,2022,18,Any,Female,83733
+34,6,2022,19,Any,All,1
+35,6,2022,19,Any,Male,1
+36,6,2022,19,Any,Female,1
+37,7,2022,18,Any,All,333011
+38,7,2022,18,Any,Male,188942
+39,7,2022,18,Any,Female,144069
+40,7,2022,19,Any,All,1
+41,7,2022,19,Any,Male,1
+42,7,2022,19,Any,Female,1
+43,8,2022,18,Any,All,304163
+44,8,2022,18,Any,Male,170877
+45,8,2022,18,Any,Female,133286
+46,8,2022,19,Any,All,1
+47,8,2022,19,Any,Male,1
+48,8,2022,19,Any,Female,1
+49,9,2022,18,Any,All,162068
+50,9,2022,18,Any,Male,90557
+51,9,2022,18,Any,Female,71511
+52,9,2022,19,Any,All,1
+53,9,2022,19,Any,Male,1
+54,9,2022,19,Any,Female,1
+55,1,2022,20,Autism or Autism Spectrum Disorders,All,3
+56,1,2022,20,Autism or Autism Spectrum Disorders,Male,3
+57,1,2022,20,Autism or Autism Spectrum Disorders,Female,3
+58,1,2022,20,Physical Disability,All,32
+59,1,2022,20,Physical Disability,Male,34
+60,1,2022,20,Physical Disability,Female,28
+61,1,2022,20,Mental Illness Leading to Disability,All,9
+62,1,2022,20,Mental Illness Leading to Disability,Male,9
+63,1,2022,20,Mental Illness Leading to Disability,Female,9
+64,1,2022,20,Visual Disability,All,11
+65,1,2022,20,Visual Disability,Male,10
+66,1,2022,20,Visual Disability,Female,12
+67,1,2022,20,Speech Disability,All,8
+68,1,2022,20,Speech Disability,Male,8
+69,1,2022,20,Speech Disability,Female,8
+70,1,2022,20,Intellectual Disability,All,5
+71,1,2022,20,Intellectual Disability,Male,6
+72,1,2022,20,Intellectual Disability,Female,5
+73,1,2022,20,Hearing Disability,All,5
+74,1,2022,20,Hearing Disability,Male,4
+75,1,2022,20,Hearing Disability,Female,6
+76,1,2022,20,Deaf-Blindness,All,0
+77,1,2022,20,Deaf-Blindness,Male,0
+78,1,2022,20,Deaf-Blindness,Female,0
+79,1,2022,20,Cerebral Palsy,All,1
+80,1,2022,20,Cerebral Palsy,Male,1
+81,1,2022,20,Cerebral Palsy,Female,1
+82,1,2022,20,Down Syndrome,All,1
+83,1,2022,20,Down Syndrome,Male,0
+84,1,2022,20,Down Syndrome,Female,1
+85,1,2022,20,Multiple Disabilities,All,11
+86,1,2022,20,Multiple Disabilities,Male,11
+87,1,2022,20,Multiple Disabilities,Female,11
+88,1,2022,20,Other Disability,All,9
+89,1,2022,20,Other Disability,Male,8
+90,1,2022,20,Other Disability,Female,10

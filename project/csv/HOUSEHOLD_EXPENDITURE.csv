@@ -1,0 +1,259 @@
+﻿expenditure_id,area_id,survey_year,locality,indicator_id,expenditure_category,value
+1,1,2022,National,32,Total,31500
+2,1,2022,National,33,Total,30603
+3,1,2022,Rural,32,Total,26842
+4,1,2022,Rural,33,Total,26207
+5,1,2022,Urban,32,Total,41424
+6,1,2022,Urban,33,Total,39971
+7,1,2016,National,32,Total,15715
+8,1,2016,National,33,Total,15420
+9,1,2016,Rural,32,Total,14156
+10,1,2016,Rural,33,Total,13868
+11,1,2016,Urban,32,Total,19697
+12,1,2016,Urban,33,Total,19383
+13,1,2022,National,34,Food,14003
+14,1,2022,National,35,Food,45.76
+15,1,2022,National,34,Non-food total,16599.07
+16,1,2022,National,35,Non-food total,54.24
+17,1,2022,National,34,Clothing & footwear,2062.64
+18,1,2022,National,35,Clothing & footwear,6.74
+19,1,2022,National,34,Housing & house rent,3136.81
+20,1,2022,National,35,Housing & house rent,10.25
+21,1,2022,National,34,Fuel & lighting,1606.66
+22,1,2022,National,35,Fuel & lighting,5.25
+23,1,2022,National,34,Household effect,670.21
+24,1,2022,National,35,Household effect,2.19
+25,1,2022,National,34,Medical,2114.67
+26,1,2022,National,35,Medical,6.91
+27,1,2022,National,34,Education,850.76
+28,1,2022,National,35,Education,2.78
+29,1,2022,National,34,Miscellaneous,6154.26
+30,1,2022,National,35,Miscellaneous,20.11
+31,1,2022,Rural,34,Food,13125
+32,1,2022,Rural,35,Food,50.08
+33,1,2022,Rural,34,Non-food total,13082.53
+34,1,2022,Rural,35,Non-food total,49.92
+35,1,2022,Rural,34,Clothing & footwear,1779.46
+36,1,2022,Rural,35,Clothing & footwear,6.79
+37,1,2022,Rural,34,Housing & house rent,2287.87
+38,1,2022,Rural,35,Housing & house rent,8.73
+39,1,2022,Rural,34,Fuel & lighting,1352.28
+40,1,2022,Rural,35,Fuel & lighting,5.16
+41,1,2022,Rural,34,Household effect,592.28
+42,1,2022,Rural,35,Household effect,2.26
+43,1,2022,Rural,34,Medical,1905.25
+44,1,2022,Rural,35,Medical,7.27
+45,1,2022,Rural,34,Education,568.69
+46,1,2022,Rural,35,Education,2.17
+47,1,2022,Rural,34,Miscellaneous,4594.09
+48,1,2022,Rural,35,Miscellaneous,17.53
+49,1,2022,Urban,34,Food,15875
+50,1,2022,Urban,35,Food,39.72
+51,1,2022,Urban,34,Non-food total,24094.52
+52,1,2022,Urban,35,Non-food total,60.28
+53,1,2022,Urban,34,Clothing & footwear,2670.06
+54,1,2022,Urban,35,Clothing & footwear,6.68
+55,1,2022,Urban,34,Housing & house rent,4948.41
+56,1,2022,Urban,35,Housing & house rent,12.38
+57,1,2022,Urban,34,Fuel & lighting,2150.44
+58,1,2022,Urban,35,Fuel & lighting,5.38
+59,1,2022,Urban,34,Household effect,835.39
+60,1,2022,Urban,35,Household effect,2.09
+61,1,2022,Urban,34,Medical,2558.14
+62,1,2022,Urban,35,Medical,6.4
+63,1,2022,Urban,34,Education,1450.95
+64,1,2022,Urban,35,Education,3.63
+65,1,2022,Urban,34,Miscellaneous,9481.12
+66,1,2022,Urban,35,Miscellaneous,23.72
+67,1,2016,National,34,Food,7353.8
+68,1,2016,National,35,Food,47.69
+69,1,2016,National,34,Non-food total,8066.2
+70,1,2016,National,35,Non-food total,52.31
+71,1,2016,National,34,Clothing & footwear,1097.9
+72,1,2016,National,35,Clothing & footwear,7.12
+73,1,2016,National,34,Housing & house rent,1916.71
+74,1,2016,National,35,Housing & house rent,12.43
+75,1,2016,National,34,Fuel & lighting,935.99
+76,1,2016,National,35,Fuel & lighting,6.07
+77,1,2016,National,34,Household effect,451.81
+78,1,2016,National,35,Household effect,2.93
+79,1,2016,National,34,Medical,700.07
+80,1,2016,National,35,Medical,4.54
+81,1,2016,National,34,Education,835.76
+82,1,2016,National,35,Education,5.42
+83,1,2016,National,34,Miscellaneous,2127.96
+84,1,2016,National,35,Miscellaneous,13.8
+85,1,2016,Rural,34,Food,7001.95
+86,1,2016,Rural,35,Food,50.49
+87,1,2016,Rural,34,Non-food total,6866.05
+88,1,2016,Rural,35,Non-food total,49.51
+89,1,2016,Rural,34,Clothing & footwear,1040.1
+90,1,2016,Rural,35,Clothing & footwear,7.5
+91,1,2016,Rural,34,Housing & house rent,1359.06
+92,1,2016,Rural,35,Housing & house rent,9.8
+93,1,2016,Rural,34,Fuel & lighting,922.22
+94,1,2016,Rural,35,Fuel & lighting,6.65
+95,1,2016,Rural,34,Household effect,399.4
+96,1,2016,Rural,35,Household effect,2.88
+97,1,2016,Rural,34,Medical,642.09
+98,1,2016,Rural,35,Medical,4.63
+99,1,2016,Rural,34,Education,683.69
+100,1,2016,Rural,35,Education,4.93
+101,1,2016,Rural,34,Miscellaneous,1819.48
+102,1,2016,Rural,35,Miscellaneous,13.12
+103,1,2016,Urban,34,Food,8255.22
+104,1,2016,Urban,35,Food,42.59
+105,1,2016,Urban,34,Non-food total,11127.78
+106,1,2016,Urban,35,Non-food total,57.41
+107,1,2016,Urban,34,Clothing & footwear,1244.39
+108,1,2016,Urban,35,Clothing & footwear,6.42
+109,1,2016,Urban,34,Housing & house rent,3343.57
+110,1,2016,Urban,35,Housing & house rent,17.25
+111,1,2016,Urban,34,Fuel & lighting,973.03
+112,1,2016,Urban,35,Fuel & lighting,5.02
+113,1,2016,Urban,34,Household effect,587.3
+114,1,2016,Urban,35,Household effect,3.03
+115,1,2016,Urban,34,Medical,845.1
+116,1,2016,Urban,35,Medical,4.36
+117,1,2016,Urban,34,Education,1226.94
+118,1,2016,Urban,35,Education,6.33
+119,1,2016,Urban,34,Miscellaneous,2907.45
+120,1,2016,Urban,35,Miscellaneous,15
+121,1,2010,National,34,Food,6030.74
+122,1,2010,National,35,Food,54.81
+123,1,2010,National,34,Non-food total,4972.26
+124,1,2010,National,35,Non-food total,45.19
+125,1,2010,National,34,Clothing & footwear,544.65
+126,1,2010,National,35,Clothing & footwear,4.95
+127,1,2010,National,34,Housing & house rent,1092.6
+128,1,2010,National,35,Housing & house rent,9.93
+129,1,2010,National,34,Fuel & lighting,619.47
+130,1,2010,National,35,Fuel & lighting,5.63
+131,1,2010,National,34,Household effect,184.85
+132,1,2010,National,35,Household effect,1.68
+133,1,2010,National,34,Medical,417.01
+134,1,2010,National,35,Medical,3.79
+135,1,2010,National,34,Education,624.97
+136,1,2010,National,35,Education,5.68
+137,1,2010,National,34,Miscellaneous,1488.71
+138,1,2010,National,35,Miscellaneous,13.53
+139,1,2010,Rural,34,Food,5542.71
+140,1,2010,Rural,35,Food,58.74
+141,1,2010,Rural,34,Non-food total,3893.29
+142,1,2010,Rural,35,Non-food total,41.26
+143,1,2010,Rural,34,Clothing & footwear,483.12
+144,1,2010,Rural,35,Clothing & footwear,5.12
+145,1,2010,Rural,34,Housing & house rent,687.88
+146,1,2010,Rural,35,Housing & house rent,7.29
+147,1,2010,Rural,34,Fuel & lighting,571.82
+148,1,2010,Rural,35,Fuel & lighting,6.06
+149,1,2010,Rural,34,Household effect,174.57
+150,1,2010,Rural,35,Household effect,1.85
+151,1,2010,Rural,34,Medical,382.16
+152,1,2010,Rural,35,Medical,4.05
+153,1,2010,Rural,34,Education,394.42
+154,1,2010,Rural,35,Education,4.18
+155,1,2010,Rural,34,Miscellaneous,1199.32
+156,1,2010,Rural,35,Miscellaneous,12.71
+157,1,2010,Urban,34,Food,7361.5
+158,1,2010,Urban,35,Food,48.19
+159,1,2010,Urban,34,Non-food total,7914.5
+160,1,2010,Urban,35,Non-food total,51.81
+161,1,2010,Urban,34,Clothing & footwear,713.39
+162,1,2010,Urban,35,Clothing & footwear,4.67
+163,1,2010,Urban,34,Housing & house rent,2201.27
+164,1,2010,Urban,35,Housing & house rent,14.41
+165,1,2010,Urban,34,Fuel & lighting,747
+166,1,2010,Urban,35,Fuel & lighting,4.89
+167,1,2010,Urban,34,Household effect,213.86
+168,1,2010,Urban,35,Household effect,1.4
+169,1,2010,Urban,34,Medical,511.75
+170,1,2010,Urban,35,Medical,3.35
+171,1,2010,Urban,34,Education,1252.63
+172,1,2010,Urban,35,Education,8.2
+173,1,2010,Urban,34,Miscellaneous,2274.6
+174,1,2010,Urban,35,Miscellaneous,14.89
+175,1,2005,National,34,Food,3209.23
+176,1,2005,National,35,Food,53.81
+177,1,2005,National,34,Non-food total,2752.98
+178,1,2005,National,35,Non-food total,46.16
+179,1,2005,National,34,Clothing & footwear,328.62
+180,1,2005,National,35,Clothing & footwear,5.51
+181,1,2005,National,34,Housing & house rent,730.59
+182,1,2005,National,35,Housing & house rent,12.25
+183,1,2005,National,34,Fuel & lighting,356.65
+184,1,2005,National,35,Fuel & lighting,5.98
+185,1,2005,National,34,Household effect,122.26
+186,1,2005,National,35,Household effect,2.05
+187,1,2005,National,34,Miscellaneous,1214.87
+188,1,2005,National,35,Miscellaneous,20.37
+189,1,2005,Rural,34,Food,3023.59
+190,1,2005,Rural,35,Food,58.54
+191,1,2005,Rural,34,Non-food total,2139.86
+192,1,2005,Rural,35,Non-food total,41.43
+193,1,2005,Rural,34,Clothing & footwear,286.14
+194,1,2005,Rural,35,Clothing & footwear,5.54
+195,1,2005,Rural,34,Housing & house rent,504.62
+196,1,2005,Rural,35,Housing & house rent,9.77
+197,1,2005,Rural,34,Fuel & lighting,315.06
+198,1,2005,Rural,35,Fuel & lighting,6.1
+199,1,2005,Rural,34,Household effect,92.97
+200,1,2005,Rural,35,Household effect,1.8
+201,1,2005,Rural,34,Miscellaneous,941.06
+202,1,2005,Rural,35,Miscellaneous,18.22
+203,1,2005,Urban,34,Food,3755.89
+204,1,2005,Urban,35,Food,45.17
+205,1,2005,Urban,34,Non-food total,4556.62
+206,1,2005,Urban,35,Non-food total,54.8
+207,1,2005,Urban,34,Clothing & footwear,455.66
+208,1,2005,Urban,35,Clothing & footwear,5.48
+209,1,2005,Urban,34,Housing & house rent,1395.26
+210,1,2005,Urban,35,Housing & house rent,16.78
+211,1,2005,Urban,34,Fuel & lighting,478.94
+212,1,2005,Urban,35,Fuel & lighting,5.76
+213,1,2005,Urban,34,Household effect,207.04
+214,1,2005,Urban,35,Household effect,2.49
+215,1,2005,Urban,34,Miscellaneous,2019.71
+216,1,2005,Urban,35,Miscellaneous,24.29
+217,1,2000,National,34,Food,2477.2
+218,1,2000,National,35,Food,54.6
+219,1,2000,National,34,Non-food total,1988.11
+220,1,2000,National,35,Non-food total,43.82
+221,1,2000,National,34,Clothing & footwear,284.92
+222,1,2000,National,35,Clothing & footwear,6.28
+223,1,2000,National,34,Housing & house rent,408.33
+224,1,2000,National,35,Housing & house rent,9
+225,1,2000,National,34,Fuel & lighting,308.97
+226,1,2000,National,35,Fuel & lighting,6.81
+227,1,2000,National,34,Household effect,63.97
+228,1,2000,National,35,Household effect,1.41
+229,1,2000,National,34,Miscellaneous,921.92
+230,1,2000,National,35,Miscellaneous,20.32
+231,1,2000,Rural,34,Food,2299.86
+232,1,2000,Rural,35,Food,59.29
+233,1,2000,Rural,34,Non-food total,1507.77
+234,1,2000,Rural,35,Non-food total,38.87
+235,1,2000,Rural,34,Clothing & footwear,253.3
+236,1,2000,Rural,35,Clothing & footwear,6.53
+237,1,2000,Rural,34,Housing & house rent,221.1
+238,1,2000,Rural,35,Housing & house rent,5.7
+239,1,2000,Rural,34,Fuel & lighting,278.9
+240,1,2000,Rural,35,Fuel & lighting,7.19
+241,1,2000,Rural,34,Household effect,47.32
+242,1,2000,Rural,35,Household effect,1.22
+243,1,2000,Rural,34,Miscellaneous,707.14
+244,1,2000,Rural,35,Miscellaneous,18.23
+245,1,2000,Urban,34,Food,3174.19
+246,1,2000,Urban,35,Food,44.55
+247,1,2000,Urban,34,Non-food total,3875.29
+248,1,2000,Urban,35,Non-food total,54.39
+249,1,2000,Urban,34,Clothing & footwear,408.26
+250,1,2000,Urban,35,Clothing & footwear,5.73
+251,1,2000,Urban,34,Housing & house rent,1143.56
+252,1,2000,Urban,35,Housing & house rent,16.05
+253,1,2000,Urban,34,Fuel & lighting,427.5
+254,1,2000,Urban,35,Fuel & lighting,6
+255,1,2000,Urban,34,Household effect,128.96
+256,1,2000,Urban,35,Household effect,1.81
+257,1,2000,Urban,34,Miscellaneous,1767
+258,1,2000,Urban,35,Miscellaneous,24.8

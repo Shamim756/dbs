@@ -1,0 +1,91 @@
+﻿consumption_id,area_id,survey_year,locality,indicator_id,consumption_item,value
+1,1,2022,National,36,Food share of consumption,45.76
+2,1,2022,National,36,Non-food share of consumption,54.24
+3,1,2022,Rural,36,Food share of consumption,50.08
+4,1,2022,Rural,36,Non-food share of consumption,49.92
+5,1,2022,Urban,36,Food share of consumption,39.72
+6,1,2022,Urban,36,Non-food share of consumption,60.28
+7,1,2016,National,36,Food share of consumption,47.69
+8,1,2016,National,36,Non-food share of consumption,52.31
+9,1,2016,Rural,36,Food share of consumption,50.49
+10,1,2016,Rural,36,Non-food share of consumption,49.51
+11,1,2016,Urban,36,Food share of consumption,42.59
+12,1,2016,Urban,36,Non-food share of consumption,57.41
+13,1,2010,National,36,Food share of consumption,54.81
+14,1,2010,National,36,Non-food share of consumption,45.19
+15,1,2010,Rural,36,Food share of consumption,58.74
+16,1,2010,Rural,36,Non-food share of consumption,41.26
+17,1,2010,Urban,36,Food share of consumption,48.19
+18,1,2010,Urban,36,Non-food share of consumption,51.81
+19,1,2005,National,36,Food share of consumption,53.81
+20,1,2005,National,36,Non-food share of consumption,46.16
+21,1,2005,Rural,36,Food share of consumption,58.54
+22,1,2005,Rural,36,Non-food share of consumption,41.43
+23,1,2005,Urban,36,Food share of consumption,45.17
+24,1,2005,Urban,36,Non-food share of consumption,54.8
+25,1,2000,National,36,Food share of consumption,54.6
+26,1,2000,National,36,Non-food share of consumption,43.82
+27,1,2000,Rural,36,Food share of consumption,59.29
+28,1,2000,Rural,36,Non-food share of consumption,38.87
+29,1,2000,Urban,36,Food share of consumption,44.55
+30,1,2000,Urban,36,Non-food share of consumption,54.39
+31,1,2022,National,36,Consumption share - Decile 1,3.47
+32,1,2022,National,36,Consumption share - Decile 2,4.75
+33,1,2022,National,36,Consumption share - Decile 3,5.65
+34,1,2022,National,36,Consumption share - Decile 4,6.56
+35,1,2022,National,36,Consumption share - Decile 5,7.5
+36,1,2022,National,36,Consumption share - Decile 6,8.54
+37,1,2022,National,36,Consumption share - Decile 7,9.86
+38,1,2022,National,36,Consumption share - Decile 8,11.68
+39,1,2022,National,36,Consumption share - Decile 9,14.63
+40,1,2022,National,36,Consumption share - Decile 10,27.37
+41,1,2022,Rural,36,Consumption share - Decile 1,3.87
+42,1,2022,Rural,36,Consumption share - Decile 2,5.21
+43,1,2022,Rural,36,Consumption share - Decile 3,6.17
+44,1,2022,Rural,36,Consumption share - Decile 4,7.04
+45,1,2022,Rural,36,Consumption share - Decile 5,8.02
+46,1,2022,Rural,36,Consumption share - Decile 6,9.07
+47,1,2022,Rural,36,Consumption share - Decile 7,10.32
+48,1,2022,Rural,36,Consumption share - Decile 8,12.08
+49,1,2022,Rural,36,Consumption share - Decile 9,14.61
+50,1,2022,Rural,36,Consumption share - Decile 10,23.63
+51,1,2022,Urban,36,Consumption share - Decile 1,3.25
+52,1,2022,Urban,36,Consumption share - Decile 2,4.5
+53,1,2022,Urban,36,Consumption share - Decile 3,5.39
+54,1,2022,Urban,36,Consumption share - Decile 4,6.24
+55,1,2022,Urban,36,Consumption share - Decile 5,7.11
+56,1,2022,Urban,36,Consumption share - Decile 6,8.21
+57,1,2022,Urban,36,Consumption share - Decile 7,9.6
+58,1,2022,Urban,36,Consumption share - Decile 8,11.53
+59,1,2022,Urban,36,Consumption share - Decile 9,15.24
+60,1,2022,Urban,36,Consumption share - Decile 10,28.93
+61,1,2016,National,36,Consumption share - Decile 1,3.7
+62,1,2016,National,36,Consumption share - Decile 2,4.94
+63,1,2016,National,36,Consumption share - Decile 3,5.8
+64,1,2016,National,36,Consumption share - Decile 4,6.64
+65,1,2016,National,36,Consumption share - Decile 5,7.51
+66,1,2016,National,36,Consumption share - Decile 6,8.54
+67,1,2016,National,36,Consumption share - Decile 7,9.84
+68,1,2016,National,36,Consumption share - Decile 8,11.59
+69,1,2016,National,36,Consumption share - Decile 9,14.61
+70,1,2016,National,36,Consumption share - Decile 10,26.83
+71,1,2016,Rural,36,Consumption share - Decile 1,4
+72,1,2016,Rural,36,Consumption share - Decile 2,5.28
+73,1,2016,Rural,36,Consumption share - Decile 3,6.14
+74,1,2016,Rural,36,Consumption share - Decile 4,6.96
+75,1,2016,Rural,36,Consumption share - Decile 5,7.81
+76,1,2016,Rural,36,Consumption share - Decile 6,8.79
+77,1,2016,Rural,36,Consumption share - Decile 7,9.94
+78,1,2016,Rural,36,Consumption share - Decile 8,11.58
+79,1,2016,Rural,36,Consumption share - Decile 9,14.15
+80,1,2016,Rural,36,Consumption share - Decile 10,25.35
+81,1,2016,Urban,36,Consumption share - Decile 1,3.44
+82,1,2016,Urban,36,Consumption share - Decile 2,4.75
+83,1,2016,Urban,36,Consumption share - Decile 3,5.67
+84,1,2016,Urban,36,Consumption share - Decile 4,6.55
+85,1,2016,Urban,36,Consumption share - Decile 5,7.51
+86,1,2016,Urban,36,Consumption share - Decile 6,8.6
+87,1,2016,Urban,36,Consumption share - Decile 7,10.07
+88,1,2016,Urban,36,Consumption share - Decile 8,11.91
+89,1,2016,Urban,36,Consumption share - Decile 9,15.26
+90,1,2016,Urban,36,Consumption share - Decile 10,26.23
